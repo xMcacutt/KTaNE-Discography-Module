@@ -1,0 +1,254 @@
+{
+  "artist": "Travis",
+  "album_title": "The Boy With No Name",
+  "songs": [
+    {
+      "song_title": "3 Times And You Lose",
+      "unique_words": [
+        "blank",
+        "course",
+        "didnt",
+        "doesnt",
+        "human",
+        "important",
+        "lived",
+        "matter",
+        "nightmare",
+        "nothing",
+        "reach",
+        "really",
+        "running",
+        "seldom",
+        "spoken",
+        "their",
+        "throwing",
+        "times",
+        "tried"
+      ]
+    },
+    {
+      "song_title": "Selfish Jean",
+      "unique_words": [
+        "alarm",
+        "alarming",
+        "charm",
+        "chocolate",
+        "clean",
+        "combination",
+        "etiquette",
+        "except",
+        "expect",
+        "finer",
+        "guarantee",
+        "happy",
+        "house",
+        "knack",
+        "knife",
+        "knowing",
+        "miracle",
+        "morning",
+        "nowhere",
+        "peace",
+        "perfect",
+        "selfish",
+        "shelf",
+        "slate",
+        "snoring",
+        "thanks",
+        "threw",
+        "twist",
+        "understanding",
+        "wired",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Closer",
+      "unique_words": [
+        "chance",
+        "closer",
+        "dance",
+        "enough",
+        "leave",
+        "mellow",
+        "parade",
+        "second",
+        "thinking",
+        "unfinished",
+        "waking",
+        "without"
+      ]
+    },
+    {
+      "song_title": "Big Chair",
+      "unique_words": [
+        "breaking",
+        "chair",
+        "climb",
+        "confusion",
+        "instead",
+        "thats",
+        "wasnt"
+      ]
+    },
+    {
+      "song_title": "Battleships",
+      "unique_words": [
+        "always",
+        "battleship",
+        "carry",
+        "darling",
+        "drifting",
+        "fight",
+        "figure",
+        "middle",
+        "miles",
+        "movie",
+        "overboard",
+        "right",
+        "river",
+        "shore",
+        "sinking",
+        "smart",
+        "throw",
+        "worth",
+        "wounded"
+      ]
+    },
+    {
+      "song_title": "Eyes Wide Open",
+      "unique_words": [
+        "alive",
+        "attack",
+        "before",
+        "count",
+        "crack",
+        "defense",
+        "difference",
+        "disbelief",
+        "driving",
+        "fence",
+        "sheep",
+        "suspense",
+        "watershed"
+      ]
+    },
+    {
+      "song_title": "My Eyes",
+      "unique_words": [
+        "afraid",
+        "below",
+        "discover",
+        "disguise",
+        "either",
+        "feather",
+        "point",
+        "pretty",
+        "recover",
+        "shame",
+        "weather",
+        "welcome"
+      ]
+    },
+    {
+      "song_title": "One Night",
+      "unique_words": [
+        "alright",
+        "anybody",
+        "awake",
+        "begun",
+        "beside",
+        "cannot",
+        "comes",
+        "damage",
+        "daylight",
+        "easier",
+        "escape",
+        "everybody",
+        "learning",
+        "statue",
+        "still",
+        "storm",
+        "turning"
+      ]
+    },
+    {
+      "song_title": "Under The Moonlight",
+      "unique_words": [
+        "answer",
+        "begin",
+        "belief",
+        "beyond",
+        "blooming",
+        "clear",
+        "colour",
+        "distance",
+        "dream",
+        "final",
+        "gather",
+        "light",
+        "memory",
+        "moonbeam",
+        "motion",
+        "relive",
+        "riding",
+        "summer",
+        "today",
+        "together",
+        "tonight",
+        "under",
+        "watching"
+      ]
+    },
+    {
+      "song_title": "Out In Space",
+      "unique_words": [
+        "clearly",
+        "crowd",
+        "friend",
+        "jealous",
+        "nights",
+        "ourselves",
+        "seriously",
+        "someone",
+        "space",
+        "spent",
+        "stayed"
+      ]
+    },
+    {
+      "song_title": "Colder",
+      "unique_words": [
+        "angel",
+        "around",
+        "caught",
+        "colder",
+        "color",
+        "entropy",
+        "every",
+        "extreme",
+        "flying",
+        "getting",
+        "maybe",
+        "melody",
+        "place",
+        "symphony"
+      ]
+    },
+    {
+      "song_title": "New Amsterdam",
+      "unique_words": [
+        "beneath",
+        "central",
+        "francois",
+        "michel",
+        "paris",
+        "robert",
+        "stranger",
+        "street",
+        "texas",
+        "watch"
+      ]
+    }
+  ]
+}

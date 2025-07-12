@@ -1,0 +1,308 @@
+{
+  "artist": "Twenty One Pilots",
+  "album_title": "Blurryface",
+  "songs": [
+    {
+      "song_title": "Heavydirtysoul",
+      "unique_words": [
+        "already",
+        "attempt",
+        "basement",
+        "choke",
+        "clean",
+        "crazy",
+        "figure",
+        "guess",
+        "hunch",
+        "imagination",
+        "infestation",
+        "mindless",
+        "prove",
+        "rabbit",
+        "rapping",
+        "rushing",
+        "shout",
+        "smoke",
+        "smoking",
+        "start",
+        "stuff",
+        "therefore",
+        "twist",
+        "writing"
+      ]
+    },
+    {
+      "song_title": "Stressed Out",
+      "unique_words": [
+        "build",
+        "candle",
+        "certain",
+        "clothes",
+        "creek",
+        "different",
+        "identify",
+        "insecure",
+        "latter",
+        "laughing",
+        "older",
+        "order",
+        "outer",
+        "pretend",
+        "remind",
+        "rocket",
+        "shrink",
+        "smell",
+        "space",
+        "student",
+        "throw",
+        "young"
+      ]
+    },
+    {
+      "song_title": "Ride",
+      "unique_words": [
+        "bullet",
+        "everybody",
+        "falling",
+        "harder",
+        "literally",
+        "metaphorically",
+        "peace",
+        "there",
+        "through",
+        "tonight",
+        "wouldnt",
+        "write"
+      ]
+    },
+    {
+      "song_title": "Fairly Local",
+      "unique_words": [
+        "black",
+        "bulletproof",
+        "burning",
+        "chance",
+        "clique",
+        "dance",
+        "emotional",
+        "fairly",
+        "funeral",
+        "local",
+        "repeat",
+        "shouldnt",
+        "streets",
+        "switch",
+        "truly"
+      ]
+    },
+    {
+      "song_title": "Tear In My Heart",
+      "unique_words": [
+        "armor",
+        "asleep",
+        "bleed",
+        "butcher",
+        "carver",
+        "cement",
+        "driving",
+        "drove",
+        "farther",
+        "government",
+        "higher",
+        "smile",
+        "taste"
+      ]
+    },
+    {
+      "song_title": "Lane Boy",
+      "unique_words": [
+        "between",
+        "cavalry",
+        "confrontation",
+        "constant",
+        "currency",
+        "darkness",
+        "flawless",
+        "fought",
+        "hearing",
+        "heartless",
+        "highway",
+        "honest",
+        "industry",
+        "morality",
+        "perfect",
+        "person",
+        "poppin",
+        "problem",
+        "question",
+        "raised",
+        "record",
+        "regardless",
+        "salary",
+        "sanity",
+        "singles",
+        "tempo",
+        "track",
+        "trust",
+        "vanity"
+      ]
+    },
+    {
+      "song_title": "The Judge",
+      "unique_words": [
+        "clear",
+        "cranked",
+        "declared",
+        "devil",
+        "dismal",
+        "drought",
+        "forgot",
+        "fourth",
+        "freezing",
+        "heading",
+        "hideaway",
+        "house",
+        "insane",
+        "judge",
+        "leader",
+        "light",
+        "mouth",
+        "nights",
+        "place",
+        "reason",
+        "revel",
+        "route",
+        "secret",
+        "soaked",
+        "south",
+        "stayed",
+        "surrender"
+      ]
+    },
+    {
+      "song_title": "Doubt",
+      "unique_words": [
+        "again",
+        "anxiety",
+        "ceiling",
+        "dropping",
+        "gnawing",
+        "havent",
+        "image",
+        "immaturity",
+        "leads",
+        "shaking",
+        "simple",
+        "stopping",
+        "system",
+        "temperature",
+        "their",
+        "uncertainty"
+      ]
+    },
+    {
+      "song_title": "Polarize",
+      "unique_words": [
+        "adversary",
+        "polarize",
+        "running",
+        "separating",
+        "splitting"
+      ]
+    },
+    {
+      "song_title": "We Don't Believe What's On T.V.",
+      "unique_words": [
+        "alright",
+        "before",
+        "happen",
+        "learned",
+        "pretty",
+        "second",
+        "selling",
+        "stick",
+        "twice",
+        "verse"
+      ]
+    },
+    {
+      "song_title": "Message Man",
+      "unique_words": [
+        "always",
+        "become",
+        "below",
+        "brain",
+        "comment",
+        "discretion",
+        "disguise",
+        "divided",
+        "episode",
+        "everyone",
+        "finally",
+        "future",
+        "going",
+        "loser",
+        "message",
+        "messing",
+        "moment",
+        "morning",
+        "motivation",
+        "night",
+        "poetry",
+        "present",
+        "promote",
+        "release",
+        "remember",
+        "session",
+        "singing",
+        "suicidal",
+        "times",
+        "together",
+        "worse",
+        "wrote"
+      ]
+    },
+    {
+      "song_title": "Hometown",
+      "unique_words": [
+        "bring",
+        "father",
+        "power",
+        "quietly",
+        "shadow",
+        "undone",
+        "waiting"
+      ]
+    },
+    {
+      "song_title": "Not Today",
+      "unique_words": [
+        "choice",
+        "contradiction",
+        "happy",
+        "listen",
+        "noise",
+        "outside",
+        "piano",
+        "seeing",
+        "transform",
+        "trying",
+        "waste",
+        "willing"
+      ]
+    },
+    {
+      "song_title": "Goner",
+      "unique_words": [
+        "beaten",
+        "breath",
+        "catch",
+        "ghost",
+        "goner",
+        "known",
+        "somebody",
+        "underneath"
+      ]
+    }
+  ]
+}

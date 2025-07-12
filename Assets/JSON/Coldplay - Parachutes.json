@@ -1,0 +1,139 @@
+{
+  "artist": "Coldplay",
+  "album_title": "Parachutes",
+  "songs": [
+    {
+      "song_title": "Don't Panic",
+      "unique_words": [
+        "everybody",
+        "fought",
+        "grown",
+        "nothing",
+        "sinking",
+        "somebody",
+        "theres",
+        "world"
+      ]
+    },
+    {
+      "song_title": "Shiver",
+      "unique_words": [
+        "attention",
+        "chance",
+        "direction",
+        "final",
+        "getting",
+        "listen",
+        "moment",
+        "shiver",
+        "straight",
+        "through",
+        "waiting"
+      ]
+    },
+    {
+      "song_title": "Spies",
+      "unique_words": [
+        "awake",
+        "cannot",
+        "catch",
+        "corner",
+        "feeling",
+        "forget",
+        "fugitive",
+        "peace",
+        "right",
+        "theyre",
+        "those",
+        "touch",
+        "water",
+        "which"
+      ]
+    },
+    {
+      "song_title": "Sparks",
+      "unique_words": [
+        "drive",
+        "heart",
+        "promise",
+        "sparks",
+        "yours"
+      ]
+    },
+    {
+      "song_title": "Yellow",
+      "unique_words": [
+        "across",
+        "along",
+        "bleed",
+        "myself",
+        "shine",
+        "something",
+        "wrote",
+        "yellow"
+      ]
+    },
+    {
+      "song_title": "Trouble",
+      "unique_words": [
+        "caught",
+        "little",
+        "middle",
+        "spider",
+        "stupid",
+        "trouble",
+        "twist",
+        "whats"
+      ]
+    },
+    {
+      "song_title": "Parachutes",
+      "unique_words": [
+        "loving",
+        "round",
+        "stormy"
+      ]
+    },
+    {
+      "song_title": "High Speed",
+      "unique_words": [
+        "anybody",
+        "before",
+        "confidence",
+        "inside",
+        "speed"
+      ]
+    },
+    {
+      "song_title": "We Never Change",
+      "unique_words": [
+        "comes",
+        "cruel",
+        "house",
+        "making",
+        "single",
+        "wooden",
+        "would"
+      ]
+    },
+    {
+      "song_title": "Everything's Not Lost",
+      "unique_words": [
+        "could",
+        "counting",
+        "drove",
+        "other",
+        "shoulder"
+      ]
+    },
+    {
+      "song_title": "Life Is For Living",
+      "unique_words": [
+        "alone",
+        "shouldnt",
+        "sorry",
+        "stand"
+      ]
+    }
+  ]
+}

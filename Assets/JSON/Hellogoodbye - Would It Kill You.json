@@ -1,0 +1,200 @@
+{
+  "artist": "Hellogoodbye",
+  "album_title": "Would It Kill You",
+  "songs": [
+    {
+      "song_title": "Finding Something To Do",
+      "unique_words": [
+        "bedroom",
+        "better",
+        "bloom",
+        "crawl",
+        "driving",
+        "eventually",
+        "fleeting",
+        "follow",
+        "holding",
+        "perfectly",
+        "probably",
+        "shotgun",
+        "suiting",
+        "swear",
+        "tonight",
+        "watching",
+        "which",
+        "youth"
+      ]
+    },
+    {
+      "song_title": "Getting Old",
+      "unique_words": [
+        "careful",
+        "close",
+        "dread",
+        "empty",
+        "filled",
+        "frame",
+        "getting",
+        "instead",
+        "meant",
+        "mystery",
+        "shame",
+        "tipped",
+        "under",
+        "younger"
+      ]
+    },
+    {
+      "song_title": "When We First Met",
+      "unique_words": [
+        "again",
+        "brown",
+        "clearer",
+        "direction",
+        "first",
+        "haircut",
+        "known",
+        "repeat",
+        "track",
+        "until",
+        "watched"
+      ]
+    },
+    {
+      "song_title": "Betrayed By Bones",
+      "unique_words": [
+        "behalf",
+        "bound",
+        "bring",
+        "funny",
+        "laugh",
+        "leaving",
+        "myself",
+        "stationary",
+        "taken",
+        "their",
+        "themselves",
+        "wouldnt"
+      ]
+    },
+    {
+      "song_title": "You Sleep Alone",
+      "unique_words": [
+        "chore",
+        "clean",
+        "confess",
+        "floor",
+        "forget",
+        "lover",
+        "shoulder",
+        "though",
+        "underneath",
+        "undone",
+        "youve"
+      ]
+    },
+    {
+      "song_title": "When We First Kissed",
+      "unique_words": [
+        "conversation",
+        "front",
+        "hearing",
+        "pavement",
+        "prepared",
+        "shouldnt",
+        "street",
+        "thinking",
+        "valentine"
+      ]
+    },
+    {
+      "song_title": "The Thoughts That Give Me The Creeps",
+      "unique_words": [
+        "brain",
+        "carry",
+        "feeling",
+        "found",
+        "insane",
+        "inside",
+        "really",
+        "sometime",
+        "still",
+        "touch",
+        "touching",
+        "young"
+      ]
+    },
+    {
+      "song_title": "I Never Can Relax",
+      "unique_words": [
+        "accomplished",
+        "airplane",
+        "anxious",
+        "asleep",
+        "bummed",
+        "completely",
+        "easily",
+        "except",
+        "little",
+        "nothing",
+        "overrun",
+        "place",
+        "relax",
+        "shake",
+        "shook",
+        "spelling",
+        "telling",
+        "thats",
+        "thing",
+        "tried",
+        "window"
+      ]
+    },
+    {
+      "song_title": "Coppertone",
+      "unique_words": [
+        "carefully",
+        "cover",
+        "fading",
+        "hurry",
+        "patiently",
+        "scraped",
+        "shore",
+        "sound",
+        "theyre",
+        "worry"
+      ]
+    },
+    {
+      "song_title": "Would It Kill You",
+      "unique_words": [
+        "break",
+        "breath",
+        "bummer",
+        "death",
+        "everybody",
+        "instantly",
+        "intent",
+        "later",
+        "plate",
+        "september",
+        "shaping",
+        "smile",
+        "wanting",
+        "winter"
+      ]
+    },
+    {
+      "song_title": "Something You Misplaced",
+      "unique_words": [
+        "drawer",
+        "fence",
+        "maybe",
+        "sitting",
+        "those",
+        "turns",
+        "writing"
+      ]
+    }
+  ]
+}

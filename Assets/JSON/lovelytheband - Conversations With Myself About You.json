@@ -1,0 +1,280 @@
+{
+  "artist": "lovelytheband",
+  "album_title": "Conversations With Myself About You",
+  "songs": [
+    {
+      "song_title": "conversations with myself about you",
+      "unique_words": []
+    },
+    {
+      "song_title": "waste",
+      "unique_words": [
+        "coast",
+        "dance",
+        "disappear",
+        "enough",
+        "ether",
+        "forever",
+        "friend",
+        "glitter",
+        "greater",
+        "helping",
+        "hopeful",
+        "impossible",
+        "lifeline",
+        "lifetime",
+        "runaway",
+        "search",
+        "stuck",
+        "touch"
+      ]
+    },
+    {
+      "song_title": "buzz cut",
+      "unique_words": [
+        "along",
+        "cigarette",
+        "cynical",
+        "didnt",
+        "falling",
+        "forgive",
+        "future",
+        "havent",
+        "herself",
+        "humming",
+        "miracle",
+        "pixie",
+        "singing",
+        "sometimes",
+        "until",
+        "white"
+      ]
+    },
+    {
+      "song_title": "loneliness for love",
+      "unique_words": [
+        "anything",
+        "delicate",
+        "dressed",
+        "dying",
+        "flower",
+        "inside",
+        "lining",
+        "loneliness",
+        "mistaking",
+        "peace",
+        "quiet",
+        "silver",
+        "smiling",
+        "someone",
+        "trying",
+        "ungodly",
+        "uninvited",
+        "whole",
+        "wondering"
+      ]
+    },
+    {
+      "song_title": "i hate myself",
+      "unique_words": [
+        "attached",
+        "beautiful",
+        "grown",
+        "least",
+        "little",
+        "match",
+        "melancholy",
+        "mostly",
+        "shade"
+      ]
+    },
+    {
+      "song_title": "idwgtyp",
+      "unique_words": [
+        "collect",
+        "coming",
+        "connect",
+        "feeding",
+        "liquor",
+        "party",
+        "signal",
+        "sorry",
+        "start",
+        "wasnt"
+      ]
+    },
+    {
+      "song_title": "silly",
+      "unique_words": [
+        "after",
+        "again",
+        "couch",
+        "curtain",
+        "early",
+        "emptiness",
+        "ended",
+        "found",
+        "jersey",
+        "other",
+        "silly",
+        "sleep",
+        "sleeping",
+        "turned",
+        "voice",
+        "without",
+        "wrote"
+      ]
+    },
+    {
+      "song_title": "emo",
+      "unique_words": [
+        "answer",
+        "complicate",
+        "doorstep",
+        "saying",
+        "those",
+        "three",
+        "unhappy",
+        "young"
+      ]
+    },
+    {
+      "song_title": "when you're lonely (interlude)",
+      "unique_words": [
+        "bother",
+        "closet",
+        "drinking",
+        "empty",
+        "roaming",
+        "these",
+        "where"
+      ]
+    },
+    {
+      "song_title": "love somebody else",
+      "unique_words": [
+        "apologize",
+        "attention",
+        "awesome",
+        "awful",
+        "backwards",
+        "bitter",
+        "bottle",
+        "breathe",
+        "caught",
+        "crash",
+        "demon",
+        "fabulous",
+        "first",
+        "forest",
+        "ghost",
+        "glass",
+        "gospel",
+        "honestly",
+        "learn",
+        "lesson",
+        "listening",
+        "missing",
+        "money",
+        "point",
+        "rapture",
+        "resurrect",
+        "sinner",
+        "slasher",
+        "somebody",
+        "spend",
+        "subject",
+        "thoughtful",
+        "thrasher",
+        "underwater",
+        "worst"
+      ]
+    },
+    {
+      "song_title": "i should be happy",
+      "unique_words": [
+        "appealing",
+        "breath",
+        "catch",
+        "crazy",
+        "different",
+        "healing",
+        "meaning",
+        "older",
+        "question",
+        "respect",
+        "right",
+        "should",
+        "sober",
+        "staring",
+        "starting",
+        "theres",
+        "whats"
+      ]
+    },
+    {
+      "song_title": "drive",
+      "unique_words": [
+        "already",
+        "better",
+        "drive",
+        "finally",
+        "forgot",
+        "getting",
+        "million",
+        "music",
+        "november",
+        "ready",
+        "stupid",
+        "thinking",
+        "tight",
+        "tonight",
+        "useless",
+        "whiskey"
+      ]
+    },
+    {
+      "song_title": "flowers (on my grave)",
+      "unique_words": [
+        "alive",
+        "cover",
+        "creeping",
+        "dramatic",
+        "easier",
+        "fight",
+        "knowing",
+        "leave",
+        "please",
+        "promise",
+        "quite",
+        "selfish",
+        "showing",
+        "sound",
+        "sounding",
+        "standing",
+        "teeth",
+        "twelve"
+      ]
+    },
+    {
+      "song_title": "your favourite one",
+      "unique_words": [
+        "cross",
+        "disappointed",
+        "disposable",
+        "doubt",
+        "lover",
+        "mistake",
+        "mixer",
+        "moving",
+        "picture",
+        "pride",
+        "recognize",
+        "second",
+        "swallow",
+        "wouldnt",
+        "yourself"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "artist": "Keane",
+  "album_title": "Under The Iron Sea",
+  "songs": [
+    {
+      "song_title": "Atlantic",
+      "unique_words": [
+        "anything",
+        "beginning",
+        "empty",
+        "hidden",
+        "house",
+        "spinning",
+        "though",
+        "tight",
+        "world"
+      ]
+    },
+    {
+      "song_title": "Is It Any Wonder",
+      "unique_words": [
+        "after",
+        "along",
+        "always",
+        "beside",
+        "cathedral",
+        "laughing",
+        "living",
+        "lyric",
+        "maybe",
+        "misery",
+        "puzzle",
+        "rhyme",
+        "right",
+        "sometimes",
+        "sound",
+        "stand",
+        "these",
+        "thought"
+      ]
+    },
+    {
+      "song_title": "Nothing In My Way",
+      "unique_words": [
+        "anyway",
+        "divide",
+        "great",
+        "inside",
+        "laugh",
+        "telltale",
+        "turning"
+      ]
+    },
+    {
+      "song_title": "Leaving So Soon",
+      "unique_words": [
+        "around",
+        "awkward",
+        "bloom",
+        "chance",
+        "eager",
+        "killing",
+        "leaving",
+        "might",
+        "please",
+        "prosaic",
+        "quick",
+        "weight",
+        "wishing"
+      ]
+    },
+    {
+      "song_title": "A Bad Dream",
+      "unique_words": [
+        "about",
+        "above",
+        "defend",
+        "dream",
+        "fighting",
+        "strange",
+        "those",
+        "wouldnt"
+      ]
+    },
+    {
+      "song_title": "Hamburg Song",
+      "unique_words": [
+        "brighten",
+        "bring",
+        "first",
+        "light",
+        "little",
+        "waste",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Put It Behind You",
+      "unique_words": [
+        "behind",
+        "bullet",
+        "forget",
+        "funny",
+        "going"
+      ]
+    },
+    {
+      "song_title": "Crystal Ball",
+      "unique_words": [
+        "beautiful",
+        "belong",
+        "buried",
+        "crystal",
+        "everything",
+        "fading",
+        "mirror",
+        "really",
+        "stare",
+        "starting",
+        "supposed",
+        "there",
+        "unclear",
+        "under",
+        "vacant"
+      ]
+    },
+    {
+      "song_title": "Try Again",
+      "unique_words": [
+        "asleep",
+        "night",
+        "round",
+        "somehow",
+        "stone",
+        "train",
+        "wasting"
+      ]
+    },
+    {
+      "song_title": "Broken Toy",
+      "unique_words": [
+        "older",
+        "reason",
+        "record",
+        "river",
+        "season",
+        "sorry",
+        "summer",
+        "without"
+      ]
+    },
+    {
+      "song_title": "The Frog Prince",
+      "unique_words": [
+        "brother",
+        "castle",
+        "child",
+        "crown",
+        "forfeit",
+        "gentle",
+        "golden",
+        "hollow",
+        "inherit",
+        "perfume",
+        "person",
+        "shake",
+        "small",
+        "someone",
+        "sooner",
+        "sorcery",
+        "spell",
+        "throne",
+        "treasure",
+        "trick",
+        "while",
+        "whole"
+      ]
+    }
+  ]
+}

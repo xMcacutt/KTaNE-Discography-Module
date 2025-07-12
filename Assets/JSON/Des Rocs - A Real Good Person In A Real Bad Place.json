@@ -1,0 +1,241 @@
+{
+  "artist": "Des Rocs",
+  "album_title": "A Real Good Person In A Real Bad Place",
+  "songs": [
+    {
+      "song_title": "Tick",
+      "unique_words": [
+        "anything",
+        "between",
+        "birthday",
+        "feeling",
+        "going",
+        "misunderstood",
+        "psyche",
+        "quite",
+        "repeat",
+        "right",
+        "second",
+        "sleep",
+        "somewhere",
+        "there",
+        "together",
+        "where"
+      ]
+    },
+    {
+      "song_title": "Why Why Why",
+      "unique_words": [
+        "beating",
+        "become",
+        "below",
+        "black",
+        "celebration",
+        "cross",
+        "crowded",
+        "darling",
+        "dirty",
+        "distant",
+        "fault",
+        "favorite",
+        "generation",
+        "ghost",
+        "groom",
+        "honey",
+        "imagination",
+        "revelation",
+        "revenge",
+        "scare",
+        "scary",
+        "should",
+        "squeal",
+        "straight",
+        "thing",
+        "tonight"
+      ]
+    },
+    {
+      "song_title": "break break break",
+      "unique_words": [
+        "break",
+        "moving",
+        "nobody",
+        "stride"
+      ]
+    },
+    {
+      "song_title": "Imaginary Friends",
+      "unique_words": [
+        "bitter",
+        "change",
+        "cringe",
+        "crucify",
+        "friend",
+        "imaginary",
+        "swallow",
+        "whispering"
+      ]
+    },
+    {
+      "song_title": "MMC",
+      "unique_words": [
+        "about",
+        "choke",
+        "chore",
+        "exactly",
+        "feast",
+        "hollow",
+        "laugh",
+        "leaves",
+        "mannequin",
+        "memory",
+        "mickey",
+        "mouse",
+        "mouth",
+        "nightmare",
+        "plastic",
+        "please",
+        "pretty",
+        "rather",
+        "ready",
+        "their",
+        "theyll",
+        "throat",
+        "welcome",
+        "worst"
+      ]
+    },
+    {
+      "song_title": "Ruby With The Sharpest Lies",
+      "unique_words": [
+        "bitch",
+        "blues",
+        "bridge",
+        "damned",
+        "deserve",
+        "drink",
+        "eight",
+        "ground",
+        "healing",
+        "holding",
+        "impending",
+        "power",
+        "prayer",
+        "seven",
+        "survive",
+        "switch",
+        "tunnel",
+        "until"
+      ]
+    },
+    {
+      "song_title": "Don't Hurt Me",
+      "unique_words": [
+        "brave",
+        "business",
+        "cruel",
+        "devotion",
+        "missile",
+        "night",
+        "perfect",
+        "picked",
+        "promise",
+        "tried",
+        "trouble",
+        "whatever",
+        "would"
+      ]
+    },
+    {
+      "song_title": "Hanging By A Thread",
+      "unique_words": [
+        "around",
+        "chest",
+        "drinking",
+        "finger",
+        "hanging",
+        "heavy",
+        "higher",
+        "living",
+        "lonesome",
+        "nights",
+        "paradise",
+        "remember",
+        "resting",
+        "shatter",
+        "sitting",
+        "sleepy",
+        "slipped",
+        "slipping",
+        "thread",
+        "through",
+        "train",
+        "while",
+        "wouldnt",
+        "wrapped"
+      ]
+    },
+    {
+      "song_title": "Born To Lose",
+      "unique_words": [
+        "anyone",
+        "candy",
+        "comes",
+        "deadbeat",
+        "figure",
+        "filled",
+        "filthy",
+        "guess",
+        "hopeless",
+        "island",
+        "jesus",
+        "moment",
+        "nicotine",
+        "overflowing",
+        "rapture",
+        "trash",
+        "white"
+      ]
+    },
+    {
+      "song_title": "The Devil Inside",
+      "unique_words": [
+        "above",
+        "bloody",
+        "coast",
+        "comfort",
+        "crave",
+        "devil",
+        "lover",
+        "neither",
+        "revery",
+        "spare",
+        "taken",
+        "warmth",
+        "wasted",
+        "youve"
+      ]
+    },
+    {
+      "song_title": "Rabbit Hole",
+      "unique_words": [
+        "ahead",
+        "alone",
+        "complicated",
+        "evening",
+        "falling",
+        "farther",
+        "lying",
+        "maybe",
+        "meant",
+        "morning",
+        "rabbit",
+        "regret",
+        "thought",
+        "turning",
+        "understand",
+        "world"
+      ]
+    }
+  ]
+}

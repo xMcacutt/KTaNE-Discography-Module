@@ -1,0 +1,220 @@
+{
+  "artist": "Madison Beer",
+  "album_title": "Silence Between Songs",
+  "songs": [
+    {
+      "song_title": "Spinnin",
+      "unique_words": [
+        "ballet",
+        "beginning",
+        "design",
+        "flawed",
+        "frozen",
+        "rather",
+        "stopped",
+        "stuck",
+        "today"
+      ]
+    },
+    {
+      "song_title": "Sweet Relief",
+      "unique_words": [
+        "anyone",
+        "deeply",
+        "everywhere",
+        "feeling",
+        "godspeed",
+        "leave",
+        "please",
+        "problem",
+        "profound",
+        "relief",
+        "speak"
+      ]
+    },
+    {
+      "song_title": "Envy The Leaves",
+      "unique_words": [
+        "believe",
+        "blissfully",
+        "carefree",
+        "doesnt",
+        "leaves",
+        "naive",
+        "ocean",
+        "quite",
+        "unaware"
+      ]
+    },
+    {
+      "song_title": "17",
+      "unique_words": [
+        "cherry",
+        "faster",
+        "listening",
+        "quick",
+        "recall",
+        "smell",
+        "sound",
+        "speed",
+        "thing",
+        "white"
+      ]
+    },
+    {
+      "song_title": "Ryder",
+      "unique_words": [
+        "alright",
+        "behind",
+        "built",
+        "caught",
+        "countless",
+        "cried",
+        "didnt",
+        "drain",
+        "friend",
+        "lucky",
+        "shoulder",
+        "shouldnt",
+        "stolen",
+        "tired",
+        "understand",
+        "unspoken",
+        "youth"
+      ]
+    },
+    {
+      "song_title": "Nothing Matters But You",
+      "unique_words": [
+        "before",
+        "falling",
+        "glassy",
+        "moonlight",
+        "sinking",
+        "swimming",
+        "taken",
+        "tonight",
+        "underneath",
+        "watching"
+      ]
+    },
+    {
+      "song_title": "I Wonder",
+      "unique_words": [
+        "again",
+        "breath",
+        "bright",
+        "clear",
+        "doubt",
+        "grass",
+        "greener",
+        "learned",
+        "singing",
+        "suddenly",
+        "tumbling",
+        "watched"
+      ]
+    },
+    {
+      "song_title": "At Your Worst",
+      "unique_words": [
+        "broke",
+        "excuse",
+        "leads",
+        "taught",
+        "trust",
+        "worst",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Showed Me (How I Fell In Love With You)",
+      "unique_words": [
+        "drive",
+        "exactly",
+        "watch",
+        "whenever"
+      ]
+    },
+    {
+      "song_title": "Home To Another One",
+      "unique_words": [
+        "another",
+        "gently",
+        "highway",
+        "should",
+        "sworn"
+      ]
+    },
+    {
+      "song_title": "Dangerous",
+      "unique_words": [
+        "chose",
+        "dangerous",
+        "fight",
+        "forgetting",
+        "inside",
+        "memory",
+        "picked",
+        "remember",
+        "under",
+        "where"
+      ]
+    },
+    {
+      "song_title": "Reckless",
+      "unique_words": [
+        "anyway",
+        "break",
+        "check",
+        "first",
+        "hotel",
+        "letter",
+        "might",
+        "night",
+        "nobody",
+        "perfect",
+        "relate",
+        "swore",
+        "telling",
+        "worry",
+        "wrote"
+      ]
+    },
+    {
+      "song_title": "Silence Between Songs",
+      "unique_words": [
+        "after",
+        "between",
+        "brain",
+        "broken",
+        "killing",
+        "lonely",
+        "medicate",
+        "music",
+        "naked",
+        "silence",
+        "sleeping"
+      ]
+    },
+    {
+      "song_title": "King Of Everything",
+      "unique_words": [
+        "advantage",
+        "burned",
+        "comes",
+        "crown",
+        "crumble",
+        "deserve",
+        "different",
+        "everyone",
+        "hollywood",
+        "takin",
+        "thought",
+        "worth",
+        "young",
+        "youve"
+      ]
+    }
+  ]
+}

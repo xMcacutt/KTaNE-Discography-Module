@@ -1,0 +1,158 @@
+{
+  "artist": "Weezer",
+  "album_title": "The Green Album",
+  "songs": [
+    {
+      "song_title": "Don't Let go",
+      "unique_words": [
+        "anything",
+        "begging",
+        "comes",
+        "desire",
+        "holding",
+        "receive",
+        "running",
+        "silently"
+      ]
+    },
+    {
+      "song_title": "Photograph",
+      "unique_words": [
+        "above",
+        "barely",
+        "drawing",
+        "dream",
+        "enough",
+        "everybody",
+        "learn",
+        "might",
+        "monastic",
+        "photograph",
+        "reach",
+        "reject",
+        "shooting",
+        "theres"
+      ]
+    },
+    {
+      "song_title": "Hash Pipe",
+      "unique_words": [
+        "behind",
+        "bother",
+        "business",
+        "favorite",
+        "flavor",
+        "monica",
+        "santa",
+        "taste",
+        "treat",
+        "trick"
+      ]
+    },
+    {
+      "song_title": "Island In The Sun",
+      "unique_words": [
+        "brain",
+        "drift",
+        "golden",
+        "holiday",
+        "island",
+        "memory",
+        "spend",
+        "together"
+      ]
+    },
+    {
+      "song_title": "Crab",
+      "unique_words": [
+        "booty",
+        "coming",
+        "knickers",
+        "lonely",
+        "taint"
+      ]
+    },
+    {
+      "song_title": "Knock-Down Drag-Out",
+      "unique_words": [
+        "before",
+        "knockdown",
+        "other",
+        "phone",
+        "somehow"
+      ]
+    },
+    {
+      "song_title": "Smile",
+      "unique_words": [
+        "between",
+        "darling",
+        "drought",
+        "force",
+        "front",
+        "going",
+        "happen",
+        "inside",
+        "shelf",
+        "smile",
+        "spinning",
+        "stuff",
+        "water",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Simple Pages",
+      "unique_words": [
+        "believe",
+        "honey",
+        "radio",
+        "school",
+        "simple",
+        "sugar",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "Glorious Day",
+      "unique_words": [
+        "brand",
+        "clout",
+        "dance",
+        "forcing",
+        "glorious",
+        "ground",
+        "light",
+        "living",
+        "looking",
+        "romance",
+        "scream",
+        "sound",
+        "start",
+        "today"
+      ]
+    },
+    {
+      "song_title": "O Girlfriend",
+      "unique_words": [
+        "about",
+        "alright",
+        "apart",
+        "drifting",
+        "driving",
+        "every",
+        "further",
+        "happy",
+        "little",
+        "night",
+        "suddenly",
+        "taking",
+        "touch",
+        "waste",
+        "without",
+        "wonder",
+        "would"
+      ]
+    }
+  ]
+}

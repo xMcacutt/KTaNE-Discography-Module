@@ -1,0 +1,248 @@
+{
+  "artist": "The Hoosiers",
+  "album_title": "The News From Nowhere",
+  "songs": [
+    {
+      "song_title": "Somewhere In The Distance",
+      "unique_words": [
+        "battle",
+        "bring",
+        "built",
+        "change",
+        "choose",
+        "cling",
+        "despite",
+        "distance",
+        "found",
+        "ground",
+        "havent",
+        "maybe",
+        "nerve",
+        "somewhere",
+        "staggering",
+        "sweet",
+        "thats",
+        "theyre",
+        "times",
+        "tough"
+      ]
+    },
+    {
+      "song_title": "Make Or Break (You Gotta Know)",
+      "unique_words": [
+        "another",
+        "around",
+        "beeline",
+        "being",
+        "biography",
+        "bliss",
+        "borrow",
+        "break",
+        "broken",
+        "chance",
+        "choking",
+        "delete",
+        "destination",
+        "dreamt",
+        "either",
+        "every",
+        "floor",
+        "follow",
+        "ignorance",
+        "impatient",
+        "knowledge",
+        "known",
+        "least",
+        "neglect",
+        "place",
+        "plunge",
+        "prepared",
+        "quick",
+        "racing",
+        "really",
+        "rolled",
+        "sorrow",
+        "starring",
+        "start",
+        "steal",
+        "sunshine",
+        "sweetly",
+        "tired",
+        "tomorrow",
+        "trace",
+        "where",
+        "wherever",
+        "worth",
+        "wrapped"
+      ]
+    },
+    {
+      "song_title": "My Last Fight",
+      "unique_words": [
+        "fought",
+        "going",
+        "later",
+        "resolve",
+        "right",
+        "sooner",
+        "thought"
+      ]
+    },
+    {
+      "song_title": "Fidget Brain",
+      "unique_words": [
+        "awake",
+        "brain",
+        "businessman",
+        "constant",
+        "disarray",
+        "fidget",
+        "finally",
+        "force",
+        "quake",
+        "shake",
+        "sleep",
+        "state"
+      ]
+    },
+    {
+      "song_title": "Handsome Girls And Pretty Boys",
+      "unique_words": [
+        "adoration",
+        "aorta",
+        "atlanta",
+        "better",
+        "child",
+        "choice",
+        "daughter",
+        "discount",
+        "forever",
+        "handsome",
+        "hungry",
+        "light",
+        "mother",
+        "noise",
+        "oxygenate",
+        "pretty",
+        "raise",
+        "rapture",
+        "rejoice",
+        "their",
+        "voice"
+      ]
+    },
+    {
+      "song_title": "The News From Nowhere",
+      "unique_words": [
+        "available",
+        "aware",
+        "burst",
+        "caught",
+        "clock",
+        "doubt",
+        "exactly",
+        "flame",
+        "nowhere",
+        "strike",
+        "which"
+      ]
+    },
+    {
+      "song_title": "Rocket Star",
+      "unique_words": [
+        "amends",
+        "behind",
+        "believe",
+        "beyond",
+        "catch",
+        "leaving",
+        "monster",
+        "pretend",
+        "rocket",
+        "someone",
+        "space",
+        "unaware",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "To The Lions",
+      "unique_words": [
+        "abandoned",
+        "above",
+        "begging",
+        "between",
+        "black",
+        "calling",
+        "casting",
+        "diamond",
+        "heavy",
+        "petition",
+        "rough",
+        "simply",
+        "supply",
+        "trust",
+        "turned"
+      ]
+    },
+    {
+      "song_title": "Upset",
+      "unique_words": [
+        "brought",
+        "business",
+        "coming",
+        "forget",
+        "forgive",
+        "innocent",
+        "listen",
+        "mistake",
+        "nicky",
+        "option",
+        "peaceful",
+        "pointing",
+        "sensitive",
+        "slipped",
+        "surprise",
+        "upset",
+        "wanting",
+        "wouldnt"
+      ]
+    },
+    {
+      "song_title": "Weirdo",
+      "unique_words": [
+        "belly",
+        "bright",
+        "conversation",
+        "explosion",
+        "graze",
+        "grenade",
+        "happy",
+        "miniature",
+        "patch",
+        "phase",
+        "phrase",
+        "scratch",
+        "sneer",
+        "wound"
+      ]
+    },
+    {
+      "song_title": "Impossible Boy",
+      "unique_words": [
+        "armed",
+        "benevolence",
+        "capture",
+        "charm",
+        "implausible",
+        "impossible",
+        "spell",
+        "spider",
+        "story",
+        "teller",
+        "unusual",
+        "waved"
+      ]
+    }
+  ]
+}

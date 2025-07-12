@@ -1,0 +1,157 @@
+{
+  "artist": "Rusted Root",
+  "album_title": "Cruel Sun",
+  "songs": [
+    {
+      "song_title": "Primal Scream",
+      "unique_words": [
+        "ahead",
+        "collide",
+        "nature",
+        "people",
+        "primal",
+        "scream",
+        "shelter",
+        "under",
+        "valley",
+        "waiting",
+        "whats"
+      ]
+    },
+    {
+      "song_title": "Send Me On My Way",
+      "unique_words": [
+        "about",
+        "golden",
+        "little",
+        "reach",
+        "thank"
+      ]
+    },
+    {
+      "song_title": "Tree",
+      "unique_words": [
+        "alive",
+        "beautiful",
+        "brought",
+        "colors",
+        "death",
+        "desire",
+        "everything",
+        "nothing",
+        "suffer",
+        "times",
+        "weary",
+        "weave",
+        "wrapped",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Won't Be Long",
+      "unique_words": [
+        "monkey",
+        "sweet"
+      ]
+    },
+    {
+      "song_title": "Cat Turned Blue",
+      "unique_words": [
+        "confusion",
+        "joker",
+        "relief",
+        "there",
+        "theres",
+        "thief",
+        "turned",
+        "whistle"
+      ]
+    },
+    {
+      "song_title": "Artificial Winter",
+      "unique_words": [
+        "behind",
+        "beneath",
+        "chorus",
+        "coldness",
+        "father",
+        "forbidden",
+        "getting",
+        "glove",
+        "inside",
+        "jacket",
+        "lighter",
+        "listen",
+        "night",
+        "outside",
+        "radio",
+        "rhetoric",
+        "shiver",
+        "shovel",
+        "sweat",
+        "verse",
+        "vocal",
+        "watch",
+        "winter",
+        "without"
+      ]
+    },
+    {
+      "song_title": "Where She Runs",
+      "unique_words": [
+        "although",
+        "before",
+        "crystal",
+        "learned",
+        "never",
+        "nobody",
+        "shore",
+        "thing"
+      ]
+    },
+    {
+      "song_title": "Martyr",
+      "unique_words": [
+        "aggression",
+        "drown",
+        "martyr",
+        "misery",
+        "mister",
+        "plead",
+        "pounding",
+        "should",
+        "spirit",
+        "sympathy",
+        "unspeakable",
+        "various",
+        "vision",
+        "weakness"
+      ]
+    },
+    {
+      "song_title": "Back To The Earth",
+      "unique_words": [
+        "follow",
+        "lived",
+        "write"
+      ]
+    },
+    {
+      "song_title": "Scattered",
+      "unique_words": [
+        "bless",
+        "blessed",
+        "cause",
+        "chanting",
+        "coming",
+        "myself",
+        "ourselves",
+        "scattered",
+        "strong",
+        "whole",
+        "within",
+        "wounded"
+      ]
+    }
+  ]
+}

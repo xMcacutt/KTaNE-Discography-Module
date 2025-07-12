@@ -1,0 +1,209 @@
+{
+  "artist": "Thirteen Senses",
+  "album_title": "The Invitation",
+  "songs": [
+    {
+      "song_title": "Into The Fire",
+      "unique_words": [
+        "alone",
+        "explain",
+        "extreme",
+        "looking",
+        "mountain",
+        "power",
+        "samaritan",
+        "spring",
+        "turning",
+        "waiting",
+        "white"
+      ]
+    },
+    {
+      "song_title": "Thru The Glass",
+      "unique_words": [
+        "around",
+        "baggage",
+        "blowing",
+        "bottom",
+        "cloud",
+        "everyone",
+        "getting",
+        "scream",
+        "south",
+        "voice"
+      ]
+    },
+    {
+      "song_title": "Gone",
+      "unique_words": [
+        "begun",
+        "count",
+        "flame",
+        "happiness",
+        "right",
+        "sometimes",
+        "truth",
+        "whats"
+      ]
+    },
+    {
+      "song_title": "Do No Wrong",
+      "unique_words": [
+        "atmosphere",
+        "calculated",
+        "common",
+        "complement",
+        "contain",
+        "corner",
+        "create",
+        "crowded",
+        "direction",
+        "every",
+        "outside",
+        "paradise",
+        "pollute",
+        "posted",
+        "shoot",
+        "strange",
+        "torment",
+        "traffic",
+        "winter"
+      ]
+    },
+    {
+      "song_title": "The Salt Wound Routine",
+      "unique_words": [
+        "arrive",
+        "beginning",
+        "beneath",
+        "brain",
+        "cannot",
+        "ceiling",
+        "college",
+        "could",
+        "cover",
+        "crumble",
+        "dashboard",
+        "decide",
+        "decided",
+        "degree",
+        "delicate",
+        "depart",
+        "dirty",
+        "everybody",
+        "fixed",
+        "genuine",
+        "graduate",
+        "happy",
+        "honestly",
+        "lemon",
+        "night",
+        "number",
+        "paint",
+        "prison",
+        "pursue",
+        "shelf",
+        "shouldnt",
+        "smelt",
+        "tonic",
+        "trouble",
+        "watch",
+        "while"
+      ]
+    },
+    {
+      "song_title": "Saving",
+      "unique_words": [
+        "across",
+        "blind",
+        "crossed",
+        "didnt",
+        "energy",
+        "feeling",
+        "fight",
+        "guess",
+        "might",
+        "never",
+        "tonight",
+        "tried",
+        "turned",
+        "wasted",
+        "world"
+      ]
+    },
+    {
+      "song_title": "Lead Us",
+      "unique_words": [
+        "breathe",
+        "chance",
+        "found",
+        "grave",
+        "myself",
+        "shifting",
+        "silver",
+        "stays",
+        "steal",
+        "stripping",
+        "supposed",
+        "thats",
+        "tired"
+      ]
+    },
+    {
+      "song_title": "Last Forever",
+      "unique_words": [
+        "alive",
+        "angel",
+        "caught",
+        "first",
+        "forever",
+        "nowhere",
+        "shaped",
+        "sunrise",
+        "temper",
+        "their",
+        "worry"
+      ]
+    },
+    {
+      "song_title": "History",
+      "unique_words": [
+        "anyway",
+        "apart",
+        "connect",
+        "crowd",
+        "different",
+        "disguise",
+        "drifting",
+        "miles",
+        "people",
+        "reach",
+        "reflect"
+      ]
+    },
+    {
+      "song_title": "Undivided",
+      "unique_words": [
+        "empty",
+        "fought",
+        "friend",
+        "march",
+        "training",
+        "undivided"
+      ]
+    },
+    {
+      "song_title": "Automatic",
+      "unique_words": [
+        "automatic",
+        "distance",
+        "garage",
+        "holding",
+        "judge",
+        "phone",
+        "shaking",
+        "window"
+      ]
+    }
+  ]
+}

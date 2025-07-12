@@ -1,0 +1,193 @@
+{
+  "artist": "Billie Eilish",
+  "album_title": "dont smile at me",
+  "songs": [
+    {
+      "song_title": "COPYCAT",
+      "unique_words": [
+        "anyone",
+        "belong",
+        "bunny",
+        "button",
+        "cautious",
+        "clone",
+        "cocky",
+        "copycat",
+        "crime",
+        "crossed",
+        "dirty",
+        "dollar",
+        "everybody",
+        "finger",
+        "flame",
+        "glamour",
+        "golden",
+        "italic",
+        "manner",
+        "murder",
+        "perfect",
+        "poison",
+        "psych",
+        "silver",
+        "sorry",
+        "trigger",
+        "uninvited",
+        "water"
+      ]
+    },
+    {
+      "song_title": "Idontwannabeyouanymore",
+      "unique_words": [
+        "apart",
+        "before",
+        "bottled",
+        "break",
+        "broken",
+        "dress",
+        "every",
+        "feeling",
+        "filled",
+        "getting",
+        "losing",
+        "mirror",
+        "mistake",
+        "promise",
+        "shake",
+        "swimming",
+        "tight",
+        "twice",
+        "whore"
+      ]
+    },
+    {
+      "song_title": "My Boy",
+      "unique_words": [
+        "alright",
+        "being",
+        "crier",
+        "enough",
+        "father",
+        "knife",
+        "shadow",
+        "shady",
+        "split",
+        "three",
+        "yours"
+      ]
+    },
+    {
+      "song_title": "Watch",
+      "unique_words": [
+        "close",
+        "fantasy",
+        "picture"
+      ]
+    },
+    {
+      "song_title": "Party Favor",
+      "unique_words": [
+        "birthday",
+        "blocked",
+        "favor",
+        "happy",
+        "message",
+        "might",
+        "minute",
+        "number",
+        "party",
+        "single",
+        "weather",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "Bellyache",
+      "unique_words": [
+        "anywhere",
+        "bellyache",
+        "driveway",
+        "expensive",
+        "funny",
+        "gutter",
+        "lover",
+        "money",
+        "mouth",
+        "necklace",
+        "noose",
+        "reckless",
+        "their",
+        "theyll",
+        "thought",
+        "vendetta",
+        "where",
+        "young"
+      ]
+    },
+    {
+      "song_title": "Ocean Eyes",
+      "unique_words": [
+        "blind",
+        "burning",
+        "careful",
+        "creature",
+        "diamond",
+        "fallen",
+        "falling",
+        "fifteen",
+        "lonely",
+        "napalm",
+        "ocean",
+        "quite",
+        "skies",
+        "staring",
+        "thinking",
+        "those",
+        "walking",
+        "watching",
+        "world"
+      ]
+    },
+    {
+      "song_title": "Hostage",
+      "unique_words": [
+        "across",
+        "against",
+        "beneath",
+        "build",
+        "chain",
+        "cheek",
+        "chest",
+        "crawl",
+        "hostage",
+        "nothing",
+        "shirt",
+        "speak",
+        "steal",
+        "treasure",
+        "until"
+      ]
+    },
+    {
+      "song_title": "&burn",
+      "unique_words": [
+        "aorta",
+        "billie",
+        "coming",
+        "court",
+        "found",
+        "guilty",
+        "heaven",
+        "laugh",
+        "leading",
+        "present",
+        "remember",
+        "score",
+        "still",
+        "storm",
+        "stubborn",
+        "thanks",
+        "vince"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "artist": "Black Pumas",
+  "album_title": "Black Pumas",
+  "songs": [
+    {
+      "song_title": "Black Moon Rising",
+      "unique_words": [
+        "above",
+        "attack",
+        "black",
+        "brave",
+        "bring",
+        "count",
+        "different",
+        "dressed",
+        "every",
+        "grown",
+        "hundred",
+        "nothing",
+        "paint",
+        "picture",
+        "raging",
+        "rising",
+        "season",
+        "shoot",
+        "sight",
+        "sunshine",
+        "under",
+        "whats",
+        "without",
+        "woman"
+      ]
+    },
+    {
+      "song_title": "Colors",
+      "unique_words": [
+        "about",
+        "anticipate",
+        "bitty",
+        "blues",
+        "brown",
+        "clean",
+        "colors",
+        "favorite",
+        "first",
+        "green",
+        "ground",
+        "headed",
+        "least",
+        "leaves",
+        "meadow",
+        "morning",
+        "other",
+        "parade",
+        "renegade",
+        "shaded",
+        "shake",
+        "skies",
+        "style",
+        "white"
+      ]
+    },
+    {
+      "song_title": "Know You Better",
+      "unique_words": [
+        "around",
+        "better",
+        "blaze",
+        "bumblebee",
+        "catch",
+        "comfortable",
+        "control",
+        "everything",
+        "filling",
+        "float",
+        "forward",
+        "galaxy",
+        "groove",
+        "honey",
+        "listening",
+        "mothership",
+        "moving",
+        "people",
+        "realize",
+        "really",
+        "shell",
+        "through",
+        "unified"
+      ]
+    },
+    {
+      "song_title": "Fire",
+      "unique_words": []
+    },
+    {
+      "song_title": "OCT 33",
+      "unique_words": []
+    },
+    {
+      "song_title": "Stay Gold",
+      "unique_words": [
+        "colder",
+        "forsake",
+        "summer",
+        "winter"
+      ]
+    },
+    {
+      "song_title": "Old Man",
+      "unique_words": [
+        "coming",
+        "downtrodden",
+        "elevated",
+        "enough",
+        "higher",
+        "holding",
+        "power",
+        "pretty",
+        "remember",
+        "shoulder",
+        "sleeve",
+        "stormy",
+        "theres",
+        "water",
+        "world",
+        "worry",
+        "youve"
+      ]
+    },
+    {
+      "song_title": "Confines",
+      "unique_words": [
+        "carry",
+        "gently",
+        "glide",
+        "longer",
+        "merrily",
+        "night",
+        "refine",
+        "scene",
+        "should",
+        "stream",
+        "watch"
+      ]
+    },
+    {
+      "song_title": "Touch The Sky",
+      "unique_words": [
+        "everywhere",
+        "giving",
+        "pedestal",
+        "prayer",
+        "range",
+        "satisfied",
+        "touch"
+      ]
+    },
+    {
+      "song_title": "Sweet Conversations",
+      "unique_words": [
+        "darkness",
+        "grooving",
+        "hearts",
+        "pavement",
+        "rolling",
+        "speak",
+        "spinning",
+        "spirit",
+        "steady"
+      ]
+    }
+  ]
+}

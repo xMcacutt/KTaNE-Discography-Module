@@ -1,0 +1,221 @@
+{
+  "artist": "Bruno Mars",
+  "album_title": "Doo Wops & Hooligans",
+  "songs": [
+    {
+      "song_title": "Grenade",
+      "unique_words": [
+        "black",
+        "blade",
+        "brain",
+        "bullet",
+        "devil",
+        "front",
+        "grenade",
+        "known",
+        "train",
+        "trash",
+        "trouble",
+        "watch",
+        "woman",
+        "wouldnt"
+      ]
+    },
+    {
+      "song_title": "Just The Way You Are",
+      "unique_words": [
+        "amazing",
+        "bother",
+        "compliment",
+        "laugh",
+        "perfectly",
+        "searching",
+        "without"
+      ]
+    },
+    {
+      "song_title": "Our First Time",
+      "unique_words": [
+        "alright",
+        "brand",
+        "clothes",
+        "command",
+        "cream",
+        "delicious",
+        "desire",
+        "empty",
+        "hearts",
+        "minute",
+        "nervous",
+        "princess",
+        "staring",
+        "sunny",
+        "treat",
+        "worry"
+      ]
+    },
+    {
+      "song_title": "Runaway Baby",
+      "unique_words": [
+        "another",
+        "carrot",
+        "check",
+        "clothing",
+        "eager",
+        "eating",
+        "heart",
+        "holding",
+        "please",
+        "pretty",
+        "pursue",
+        "rolling",
+        "share",
+        "should",
+        "spell",
+        "stone",
+        "though",
+        "young"
+      ]
+    },
+    {
+      "song_title": "The Lazy Song",
+      "unique_words": [
+        "anywhere",
+        "around",
+        "birthday",
+        "castle",
+        "click",
+        "college",
+        "couch",
+        "degree",
+        "great",
+        "loose",
+        "lounging",
+        "message",
+        "might",
+        "nothing",
+        "pants",
+        "phone",
+        "scream",
+        "sorry",
+        "stare",
+        "strut",
+        "swear",
+        "teach",
+        "woohoo"
+      ]
+    },
+    {
+      "song_title": "Marry You",
+      "unique_words": [
+        "blame",
+        "boulevard",
+        "break",
+        "chapel",
+        "choir",
+        "dancing",
+        "juice",
+        "looking",
+        "marry",
+        "patron",
+        "pocket",
+        "right",
+        "something"
+      ]
+    },
+    {
+      "song_title": "Talking To The Moon",
+      "unique_words": [
+        "calling",
+        "crazy",
+        "famous",
+        "myself",
+        "somewhere",
+        "talking"
+      ]
+    },
+    {
+      "song_title": "Liquor Store Blues",
+      "unique_words": [
+        "because",
+        "bigger",
+        "block",
+        "blues",
+        "bruno",
+        "cannot",
+        "cheap",
+        "comes",
+        "coming",
+        "escape",
+        "flying",
+        "ghetto",
+        "guitar",
+        "junior",
+        "liquor",
+        "lotto",
+        "nowhere",
+        "pineapple",
+        "scratch",
+        "singing",
+        "sorrow",
+        "stand",
+        "standing",
+        "store",
+        "superman",
+        "thinking",
+        "tonight",
+        "unemployment",
+        "voice",
+        "whiskey",
+        "youth",
+        "zilla"
+      ]
+    },
+    {
+      "song_title": "Count On Me",
+      "unique_words": [
+        "always",
+        "asleep",
+        "beside",
+        "count",
+        "forget",
+        "guide",
+        "middle",
+        "remind",
+        "shoulder",
+        "stuck",
+        "supposed",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "The Other Side",
+      "unique_words": [
+        "alive",
+        "complicated",
+        "cross",
+        "decide",
+        "dream",
+        "explain",
+        "forever",
+        "frankenstein",
+        "frankly",
+        "insane",
+        "inside",
+        "insomnia",
+        "lifetime",
+        "living",
+        "matter",
+        "monster",
+        "paying",
+        "price",
+        "quite",
+        "tried",
+        "truth",
+        "until",
+        "waiting",
+        "wonderland"
+      ]
+    }
+  ]
+}

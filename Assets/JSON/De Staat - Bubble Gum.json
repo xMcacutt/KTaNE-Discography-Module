@@ -1,0 +1,241 @@
+{
+  "artist": "De Staat",
+  "album_title": "Bubble Gum",
+  "songs": [
+    {
+      "song_title": "KITTY KITTY",
+      "unique_words": [
+        "begin",
+        "choice",
+        "comedy",
+        "enemy",
+        "entertainer",
+        "faker",
+        "family",
+        "feature",
+        "gator",
+        "genie",
+        "golden",
+        "great",
+        "hater",
+        "instrumental",
+        "kitty",
+        "leader",
+        "leecher",
+        "maker",
+        "melody",
+        "needy",
+        "orange",
+        "preacher",
+        "reality",
+        "shark",
+        "simple",
+        "stoned",
+        "strategy",
+        "swamp",
+        "teach",
+        "third",
+        "tweeter",
+        "white"
+      ]
+    },
+    {
+      "song_title": "Fake It Till You Make It",
+      "unique_words": [
+        "boring",
+        "budget",
+        "camera",
+        "church",
+        "death",
+        "getting",
+        "glory",
+        "harder",
+        "holding",
+        "holiness",
+        "market",
+        "multiply",
+        "polish",
+        "psyche",
+        "together",
+        "truth"
+      ]
+    },
+    {
+      "song_title": "Mona Lisa",
+      "unique_words": [
+        "addicted",
+        "anger",
+        "apart",
+        "brittle",
+        "builder",
+        "buyer",
+        "cautious",
+        "dancing",
+        "double",
+        "footing",
+        "house",
+        "imposter",
+        "killer",
+        "lighter",
+        "rotting",
+        "silent",
+        "sniff",
+        "start",
+        "sweet",
+        "throw",
+        "while"
+      ]
+    },
+    {
+      "song_title": "I'm Out Of Your Mind",
+      "unique_words": [
+        "beast",
+        "blood",
+        "burst",
+        "cheered",
+        "choke",
+        "design",
+        "fight",
+        "guard",
+        "liking",
+        "point",
+        "raised",
+        "sword",
+        "think",
+        "thrown",
+        "worth"
+      ]
+    },
+    {
+      "song_title": "Pikachu",
+      "unique_words": [
+        "bathroom",
+        "finger",
+        "hollywood",
+        "licking",
+        "looking",
+        "outside",
+        "percent",
+        "place",
+        "puppy",
+        "quiet",
+        "should",
+        "staring",
+        "window"
+      ]
+    },
+    {
+      "song_title": "Phoenix",
+      "unique_words": [
+        "again",
+        "burned",
+        "burning",
+        "candle",
+        "dodge",
+        "light",
+        "nothing",
+        "saying",
+        "shame",
+        "stunning",
+        "theres",
+        "turning"
+      ]
+    },
+    {
+      "song_title": "Level Up",
+      "unique_words": [
+        "alarm",
+        "check",
+        "clock",
+        "deadline",
+        "every",
+        "everywhere",
+        "level",
+        "maybe",
+        "needs",
+        "phone",
+        "purpose",
+        "school",
+        "second",
+        "setting",
+        "skimming",
+        "smiling",
+        "something",
+        "stepping",
+        "sticks",
+        "stone",
+        "sweat",
+        "talking",
+        "timer",
+        "under"
+      ]
+    },
+    {
+      "song_title": "Me Time",
+      "unique_words": [
+        "block",
+        "feeling",
+        "flight",
+        "floor",
+        "keeping",
+        "killing",
+        "right",
+        "today"
+      ]
+    },
+    {
+      "song_title": "Tie Me Down",
+      "unique_words": [
+        "caught",
+        "chasing",
+        "claim",
+        "click",
+        "closed",
+        "coach",
+        "could",
+        "domain",
+        "ground",
+        "later",
+        "moderator",
+        "player",
+        "referee",
+        "shaking",
+        "sleep",
+        "speak",
+        "suitcase",
+        "taking",
+        "whistle"
+      ]
+    },
+    {
+      "song_title": "I Wrote That Code",
+      "unique_words": [
+        "because",
+        "blink",
+        "butterfly",
+        "caterpillar",
+        "comfortable",
+        "evolution",
+        "future",
+        "heaven",
+        "lifting",
+        "moment",
+        "torch",
+        "wheel",
+        "worked",
+        "write",
+        "wrote"
+      ]
+    },
+    {
+      "song_title": "Luther",
+      "unique_words": [
+        "clean",
+        "distract",
+        "memory",
+        "month",
+        "water"
+      ]
+    }
+  ]
+}

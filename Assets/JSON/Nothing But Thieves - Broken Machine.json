@@ -1,0 +1,228 @@
+{
+  "artist": "Nothing But Thieves",
+  "album_title": "Broken Machine",
+  "songs": [
+    {
+      "song_title": "I Was Just A Kid",
+      "unique_words": [
+        "adventure",
+        "believe",
+        "follow",
+        "heaven",
+        "meaning",
+        "question",
+        "remember",
+        "story",
+        "tried",
+        "trigger"
+      ]
+    },
+    {
+      "song_title": "Amsterdam",
+      "unique_words": [
+        "against",
+        "crowd",
+        "crutch",
+        "friend",
+        "front",
+        "nights",
+        "people",
+        "really",
+        "sometimes",
+        "under",
+        "walking",
+        "watching",
+        "whiskey"
+      ]
+    },
+    {
+      "song_title": "Sorry",
+      "unique_words": [
+        "become",
+        "broke",
+        "carelessly",
+        "defective",
+        "desire",
+        "honey",
+        "mercury",
+        "patch",
+        "ready",
+        "rough",
+        "sorry",
+        "taught",
+        "waiting",
+        "young"
+      ]
+    },
+    {
+      "song_title": "Broken Machine",
+      "unique_words": [
+        "anything",
+        "authenticity",
+        "battery",
+        "break",
+        "broken",
+        "electricity",
+        "forward",
+        "human",
+        "layer",
+        "machine",
+        "mechanical",
+        "record",
+        "spark",
+        "spinning",
+        "though",
+        "vanity",
+        "whatever"
+      ]
+    },
+    {
+      "song_title": "Live Like Animals",
+      "unique_words": [
+        "blood",
+        "build",
+        "daily",
+        "dancing",
+        "difference",
+        "exactly",
+        "light",
+        "looking",
+        "madness",
+        "occupation",
+        "opening",
+        "parasite",
+        "socialite",
+        "starting",
+        "their",
+        "tragic",
+        "truth",
+        "write"
+      ]
+    },
+    {
+      "song_title": "Soda",
+      "unique_words": [
+        "accept",
+        "cheap",
+        "chill",
+        "exception",
+        "forget",
+        "happy",
+        "living",
+        "making",
+        "myself",
+        "paranoid",
+        "sense",
+        "someone",
+        "unwell",
+        "would"
+      ]
+    },
+    {
+      "song_title": "I'm Not Made By Design",
+      "unique_words": [
+        "celestial",
+        "claim",
+        "design",
+        "goddess",
+        "keeping",
+        "killing",
+        "monkey",
+        "parking",
+        "satisfied",
+        "stone",
+        "turning",
+        "while",
+        "woman"
+      ]
+    },
+    {
+      "song_title": "Particles",
+      "unique_words": [
+        "addiction",
+        "apart",
+        "being",
+        "comedown",
+        "doctor",
+        "driving",
+        "flirting",
+        "ghost",
+        "however",
+        "itself",
+        "medicate",
+        "mouth",
+        "night",
+        "piece",
+        "rearrange",
+        "right",
+        "scene",
+        "shadow",
+        "shake",
+        "since",
+        "sleep",
+        "somebody",
+        "switch",
+        "taken",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "Get Better",
+      "unique_words": [
+        "attach",
+        "brain",
+        "bring",
+        "dealing",
+        "disease",
+        "eating",
+        "fight",
+        "forever",
+        "limit",
+        "microwave",
+        "minute",
+        "party",
+        "raging",
+        "serious",
+        "sitting",
+        "trick",
+        "victim",
+        "which"
+      ]
+    },
+    {
+      "song_title": "Hell Yeah",
+      "unique_words": [
+        "below",
+        "cannot",
+        "danger",
+        "harder",
+        "nowhere",
+        "peace",
+        "remark",
+        "sorrow",
+        "warmer"
+      ]
+    },
+    {
+      "song_title": "Afterlife",
+      "unique_words": [
+        "afterlife",
+        "beauty",
+        "bleeding",
+        "consume",
+        "cracked",
+        "dignity",
+        "infected",
+        "lifetime",
+        "lived",
+        "losing",
+        "million",
+        "salvation",
+        "terrible",
+        "tortured",
+        "unkissed",
+        "without"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "artist": "The Fray",
+  "album_title": "How To Save A Life",
+  "songs": [
+    {
+      "song_title": "She Is",
+      "unique_words": [
+        "cannot",
+        "clarity",
+        "clean",
+        "close",
+        "consider",
+        "figure",
+        "indication",
+        "instead",
+        "nowhere",
+        "stand",
+        "walking"
+      ]
+    },
+    {
+      "song_title": "Over My Head (Cable Car)",
+      "unique_words": [
+        "above",
+        "agree",
+        "apathy",
+        "argument",
+        "become",
+        "becoming",
+        "cable",
+        "canyon",
+        "change",
+        "discard",
+        "disengage",
+        "disregard",
+        "effortless",
+        "eight",
+        "ground",
+        "hanging",
+        "other",
+        "ourselves",
+        "overtime",
+        "queue",
+        "rather",
+        "rearrange",
+        "sight",
+        "smoke",
+        "soften",
+        "sound",
+        "standing",
+        "stranger",
+        "suddenly",
+        "thats",
+        "throw",
+        "torch",
+        "truth"
+      ]
+    },
+    {
+      "song_title": "How To Save A Life",
+      "unique_words": [
+        "admit",
+        "bitterness",
+        "blame",
+        "choice",
+        "defense",
+        "drive",
+        "grant",
+        "innocence",
+        "known",
+        "lower",
+        "night",
+        "politely",
+        "raise",
+        "stare",
+        "stayed",
+        "voice",
+        "window"
+      ]
+    },
+    {
+      "song_title": "All At Once",
+      "unique_words": [
+        "better",
+        "certain",
+        "compare",
+        "cross",
+        "crowd",
+        "front",
+        "people",
+        "perfection",
+        "question",
+        "running",
+        "someone",
+        "sometimes"
+      ]
+    },
+    {
+      "song_title": "Fall Away",
+      "unique_words": [
+        "erase",
+        "fight",
+        "following",
+        "forced",
+        "outrun",
+        "rerun",
+        "swear",
+        "undone",
+        "wouldnt"
+      ]
+    },
+    {
+      "song_title": "Heaven Forbid",
+      "unique_words": [
+        "alright",
+        "apart",
+        "breaking",
+        "breath",
+        "build",
+        "enough",
+        "forbid",
+        "heaven",
+        "house",
+        "reason",
+        "tearing",
+        "tight",
+        "twenty",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Look After You",
+      "unique_words": [
+        "assuredly",
+        "begun",
+        "control",
+        "forgive",
+        "hurry",
+        "leaving",
+        "separate",
+        "steady",
+        "surely",
+        "urgency"
+      ]
+    },
+    {
+      "song_title": "Hundred",
+      "unique_words": [
+        "amidst",
+        "banking",
+        "broad",
+        "confess",
+        "daylight",
+        "hundred",
+        "separating",
+        "staring",
+        "unsure"
+      ]
+    },
+    {
+      "song_title": "Vienna",
+      "unique_words": [
+        "already",
+        "casual",
+        "closure",
+        "distance",
+        "downpour",
+        "enemy",
+        "feared",
+        "goodness",
+        "hello",
+        "maverick",
+        "melody",
+        "reach",
+        "straighten",
+        "ticket",
+        "train",
+        "vienna",
+        "whole"
+      ]
+    },
+    {
+      "song_title": "Dead Wrong",
+      "unique_words": [
+        "afraid",
+        "astray",
+        "doing",
+        "point",
+        "slowly",
+        "story",
+        "trying",
+        "understood"
+      ]
+    },
+    {
+      "song_title": "Little House",
+      "unique_words": [
+        "about",
+        "decide",
+        "doesnt",
+        "forget",
+        "narrow",
+        "nearly",
+        "scratching",
+        "suicide",
+        "works"
+      ]
+    },
+    {
+      "song_title": "Trust Me",
+      "unique_words": [
+        "found",
+        "holding",
+        "might",
+        "older",
+        "perfectly",
+        "speak",
+        "sympathy",
+        "taking",
+        "today",
+        "traffic",
+        "trust",
+        "turns"
+      ]
+    }
+  ]
+}

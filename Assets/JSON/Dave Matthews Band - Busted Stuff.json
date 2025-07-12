@@ -1,0 +1,233 @@
+{
+  "artist": "Dave Matthews Band",
+  "album_title": "Busted Stuff",
+  "songs": [
+    {
+      "song_title": "Busted Stuff",
+      "unique_words": [
+        "above",
+        "behind",
+        "broken",
+        "busted",
+        "devil",
+        "enough",
+        "giving",
+        "leave",
+        "moving",
+        "rolling",
+        "stuff",
+        "sugar",
+        "those",
+        "trail",
+        "without",
+        "woman"
+      ]
+    },
+    {
+      "song_title": "Grey Street",
+      "unique_words": [
+        "anything",
+        "blood",
+        "bright",
+        "change",
+        "colors",
+        "corner",
+        "courage",
+        "creeping",
+        "different",
+        "emptiness",
+        "kicking",
+        "listen",
+        "loneliness",
+        "myself",
+        "outside",
+        "place",
+        "setting",
+        "staring",
+        "stranger",
+        "stumbling",
+        "supposed",
+        "though",
+        "thousand",
+        "times",
+        "together"
+      ]
+    },
+    {
+      "song_title": "Where Are You Going",
+      "unique_words": [
+        "along",
+        "belong",
+        "crash",
+        "grown",
+        "ocean",
+        "smell",
+        "sound",
+        "superman",
+        "until",
+        "weary"
+      ]
+    },
+    {
+      "song_title": "You Never Know",
+      "unique_words": [
+        "believe",
+        "breathing",
+        "chasing",
+        "comes",
+        "counting",
+        "darkness",
+        "darling",
+        "doing",
+        "explain",
+        "falter",
+        "flash",
+        "funny",
+        "heavens",
+        "light",
+        "lying",
+        "moment",
+        "people",
+        "problem",
+        "reason",
+        "rushing",
+        "small",
+        "someone",
+        "sometimes",
+        "space",
+        "theyll",
+        "walking",
+        "watching",
+        "whats",
+        "wonder",
+        "wondering",
+        "worried",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "Captain",
+      "unique_words": [
+        "brewing",
+        "captain",
+        "curious",
+        "dance",
+        "direction",
+        "falling",
+        "fight",
+        "mutiny",
+        "promise",
+        "shall",
+        "smile",
+        "strange"
+      ]
+    },
+    {
+      "song_title": "Raven",
+      "unique_words": [
+        "between",
+        "coming",
+        "daddy",
+        "ending",
+        "found",
+        "friend",
+        "holding",
+        "leaving",
+        "lifetime",
+        "point",
+        "really",
+        "shake",
+        "spoke",
+        "stand",
+        "stood",
+        "thinking",
+        "thumb",
+        "truth",
+        "twist",
+        "twisting",
+        "watched",
+        "while",
+        "whisper",
+        "whole"
+      ]
+    },
+    {
+      "song_title": "Grace Is Gone",
+      "unique_words": [
+        "adore",
+        "another",
+        "beside",
+        "broke",
+        "cause",
+        "drink",
+        "drunk",
+        "excuse",
+        "grace",
+        "impossible",
+        "refuse",
+        "remember",
+        "river",
+        "shine",
+        "smoky",
+        "strong"
+      ]
+    },
+    {
+      "song_title": "Digging A Ditch",
+      "unique_words": [
+        "become",
+        "digging",
+        "ditch",
+        "madness",
+        "phone",
+        "silence",
+        "these",
+        "unplug",
+        "weigh"
+      ]
+    },
+    {
+      "song_title": "Big Eyed Fish",
+      "unique_words": [
+        "beach",
+        "better",
+        "breeze",
+        "caught",
+        "climb",
+        "colorful",
+        "concede",
+        "decided",
+        "diving",
+        "indeed",
+        "living",
+        "matter",
+        "monkey",
+        "purple",
+        "silly",
+        "swimming",
+        "tired",
+        "turned",
+        "weight"
+      ]
+    },
+    {
+      "song_title": "Bartender",
+      "unique_words": [
+        "bartender",
+        "before",
+        "bended",
+        "brother",
+        "didnt",
+        "drinking",
+        "glass",
+        "judas",
+        "redirect",
+        "regret",
+        "sister",
+        "strung",
+        "three",
+        "young"
+      ]
+    }
+  ]
+}

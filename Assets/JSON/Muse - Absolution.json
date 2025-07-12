@@ -1,0 +1,208 @@
+{
+  "artist": "Muse",
+  "album_title": "Absolution",
+  "songs": [
+    {
+      "song_title": "1",
+      "unique_words": []
+    },
+    {
+      "song_title": "Apocalypse Please",
+      "unique_words": [
+        "biblical",
+        "course",
+        "declare",
+        "emergency",
+        "eternal",
+        "history",
+        "miracle",
+        "proclaim",
+        "spread",
+        "urgency",
+        "victory"
+      ]
+    },
+    {
+      "song_title": "Time Is Running Out",
+      "unique_words": [
+        "addicted",
+        "bound",
+        "break",
+        "contradiction",
+        "elation",
+        "fixation",
+        "freedom",
+        "friction",
+        "murder",
+        "restricted",
+        "running",
+        "screaming",
+        "smother",
+        "spell",
+        "squeeze",
+        "tried",
+        "underground"
+      ]
+    },
+    {
+      "song_title": "Sing For Absolution",
+      "unique_words": [
+        "absolution",
+        "confide",
+        "gloom",
+        "grace",
+        "nowhere",
+        "remain",
+        "renew",
+        "singing",
+        "starlight",
+        "tiptoe",
+        "unrectified"
+      ]
+    },
+    {
+      "song_title": "Stockholm Syndrome",
+      "unique_words": [
+        "abandon",
+        "anger",
+        "avail",
+        "hatred",
+        "recall",
+        "scream",
+        "shell",
+        "shout",
+        "stand"
+      ]
+    },
+    {
+      "song_title": "Falling Away With You",
+      "unique_words": [
+        "again",
+        "awake",
+        "become",
+        "behind",
+        "breathing",
+        "chase",
+        "close",
+        "decay",
+        "elude",
+        "happiness",
+        "intertwine",
+        "making",
+        "maybe",
+        "misunderstood",
+        "promise",
+        "reckless",
+        "remember",
+        "tasting",
+        "threw",
+        "watching",
+        "whatever"
+      ]
+    },
+    {
+      "song_title": "Hysteria",
+      "unique_words": [
+        "alive",
+        "around",
+        "caving",
+        "erode",
+        "faith",
+        "feeling",
+        "forcing",
+        "grating",
+        "heart",
+        "holding",
+        "implode",
+        "strive",
+        "twisting",
+        "within"
+      ]
+    },
+    {
+      "song_title": "Blackout",
+      "unique_words": [
+        "embrace",
+        "young"
+      ]
+    },
+    {
+      "song_title": "Butterflies And Hurricanes",
+      "unique_words": [
+        "ahead",
+        "number",
+        "revenge",
+        "surely",
+        "times"
+      ]
+    },
+    {
+      "song_title": "The Small Print",
+      "unique_words": [
+        "bending",
+        "blame",
+        "broken",
+        "compensate",
+        "going",
+        "grave",
+        "greed",
+        "hearts",
+        "insane",
+        "light",
+        "priest",
+        "really",
+        "slave",
+        "space",
+        "theyre",
+        "watch"
+      ]
+    },
+    {
+      "song_title": "Endlessly",
+      "unique_words": [
+        "asleep",
+        "comes",
+        "forever",
+        "hopelessly",
+        "leave",
+        "moment",
+        "plain",
+        "speak",
+        "trying"
+      ]
+    },
+    {
+      "song_title": "Thoughts Of A Dying Atheist",
+      "unique_words": [
+        "afraid",
+        "beneath",
+        "between",
+        "collide",
+        "eerie",
+        "faithless",
+        "floating",
+        "pillow",
+        "sleep",
+        "where"
+      ]
+    },
+    {
+      "song_title": "Ruled By Secrecy",
+      "unique_words": [
+        "blood",
+        "charge",
+        "everywhere",
+        "pressure",
+        "rebuild",
+        "repress",
+        "restrain",
+        "steal",
+        "success",
+        "suppress",
+        "theyll",
+        "understand",
+        "working"
+      ]
+    }
+  ]
+}

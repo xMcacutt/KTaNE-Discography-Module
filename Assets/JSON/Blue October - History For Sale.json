@@ -1,0 +1,268 @@
+{
+  "artist": "Blue October",
+  "album_title": "History For Sale",
+  "songs": [
+    {
+      "song_title": "Ugly Side",
+      "unique_words": [
+        "conversation",
+        "degree",
+        "dreamt",
+        "favorite",
+        "freeze",
+        "light",
+        "northern",
+        "relief",
+        "scream",
+        "shown",
+        "slept",
+        "somehow"
+      ]
+    },
+    {
+      "song_title": "Clumsy Card House",
+      "unique_words": [
+        "always",
+        "clumsy",
+        "forever",
+        "house",
+        "standing",
+        "sunless",
+        "thats"
+      ]
+    },
+    {
+      "song_title": "Razorblade",
+      "unique_words": [
+        "above",
+        "bedroom",
+        "brief",
+        "closely",
+        "didnt",
+        "forgiveness",
+        "forgot",
+        "giving",
+        "glowing",
+        "havent",
+        "hearts",
+        "innocence",
+        "mouth",
+        "praying",
+        "preacher",
+        "remember",
+        "since",
+        "suppose",
+        "taken",
+        "thinking",
+        "uncle",
+        "watched",
+        "wounded",
+        "younger"
+      ]
+    },
+    {
+      "song_title": "Calling You",
+      "unique_words": [
+        "actually",
+        "before",
+        "calling",
+        "difficult",
+        "expect",
+        "explain",
+        "hundred",
+        "miles",
+        "never",
+        "phone",
+        "picked",
+        "quite",
+        "smile",
+        "sometimes",
+        "thousand",
+        "times"
+      ]
+    },
+    {
+      "song_title": "Chameleon Boy",
+      "unique_words": [
+        "alarm",
+        "along",
+        "beauty",
+        "breakdown",
+        "caution",
+        "chameleon",
+        "color",
+        "comes",
+        "display",
+        "gasoline",
+        "myself",
+        "ready",
+        "sleep",
+        "swore",
+        "telling",
+        "thing",
+        "think",
+        "would"
+      ]
+    },
+    {
+      "song_title": "Sexual Powertrip (One Big Lie) Bla Bla",
+      "unique_words": [
+        "bring",
+        "comfortable",
+        "crossed",
+        "flavor",
+        "getting",
+        "impossible",
+        "learning",
+        "licking",
+        "maybe",
+        "message",
+        "notice",
+        "opposite",
+        "recall",
+        "someone",
+        "sorry",
+        "straight",
+        "stuck",
+        "treat",
+        "trust"
+      ]
+    },
+    {
+      "song_title": "A Quiet Mind",
+      "unique_words": [
+        "behind",
+        "being",
+        "choose",
+        "combine",
+        "front",
+        "handle",
+        "hearing",
+        "inappropriate",
+        "leave",
+        "normal",
+        "quiet",
+        "reason",
+        "steal",
+        "strangle",
+        "strength",
+        "taught",
+        "theyre",
+        "until",
+        "wound"
+      ]
+    },
+    {
+      "song_title": "3 Weeks, She Sleeps",
+      "unique_words": [
+        "steel"
+      ]
+    },
+    {
+      "song_title": "Inner Glow",
+      "unique_words": [
+        "aching",
+        "again",
+        "alive",
+        "beginning",
+        "cause",
+        "cloud",
+        "eager",
+        "field",
+        "flaunt",
+        "inner",
+        "making",
+        "permission",
+        "preview",
+        "pride",
+        "radio",
+        "rhythm",
+        "shove",
+        "story",
+        "stride",
+        "strong",
+        "throw",
+        "tried",
+        "under",
+        "waste",
+        "whatever",
+        "whether",
+        "wonder",
+        "write",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "Somebody",
+      "unique_words": [
+        "afterglow",
+        "begin",
+        "better",
+        "break",
+        "brilliant",
+        "broke",
+        "caught",
+        "cheat",
+        "chest",
+        "clown",
+        "given",
+        "ground",
+        "loser",
+        "should",
+        "smart",
+        "somebody",
+        "start",
+        "unglued",
+        "wishing"
+      ]
+    },
+    {
+      "song_title": "Come In Closer",
+      "unique_words": [
+        "across",
+        "batch",
+        "chair",
+        "crawl",
+        "dancing",
+        "evening",
+        "freeway",
+        "godlike",
+        "lethal",
+        "movie",
+        "night",
+        "nightfall",
+        "patch",
+        "really",
+        "remains",
+        "rocking",
+        "thundercloud",
+        "truly",
+        "truth",
+        "useless",
+        "waltz",
+        "wedding"
+      ]
+    },
+    {
+      "song_title": "Amazing",
+      "unique_words": [
+        "amazing",
+        "delicious",
+        "escape",
+        "found",
+        "frame",
+        "ghost",
+        "history",
+        "instead",
+        "pretend",
+        "punch",
+        "relax",
+        "scratch",
+        "study",
+        "supposed",
+        "touch",
+        "watch"
+      ]
+    }
+  ]
+}

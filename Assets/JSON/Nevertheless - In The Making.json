@@ -1,0 +1,200 @@
+{
+  "artist": "Nevertheless",
+  "album_title": "In The Making",
+  "songs": [
+    {
+      "song_title": "Sleeping In",
+      "unique_words": [
+        "alright",
+        "awake",
+        "carried",
+        "clear",
+        "create",
+        "crowd",
+        "downtown",
+        "dying",
+        "going",
+        "outside",
+        "phase",
+        "ringing",
+        "sleeping",
+        "waiting",
+        "waking"
+      ]
+    },
+    {
+      "song_title": "It's True",
+      "unique_words": [
+        "beautiful",
+        "belong",
+        "bigger",
+        "burning",
+        "compromise",
+        "paint",
+        "praise",
+        "shining",
+        "sometimes",
+        "somewhere",
+        "there",
+        "underneath",
+        "unstoppable"
+      ]
+    },
+    {
+      "song_title": "Cross My Heart",
+      "unique_words": [
+        "bright",
+        "cannot",
+        "cross",
+        "helping",
+        "needs",
+        "nodding",
+        "pretend",
+        "remember",
+        "stand",
+        "suicide",
+        "tried",
+        "whats"
+      ]
+    },
+    {
+      "song_title": "It's No Secret",
+      "unique_words": [
+        "afraid",
+        "between",
+        "chest",
+        "devotion",
+        "minute",
+        "reason",
+        "second",
+        "secret",
+        "single",
+        "something",
+        "think",
+        "unseen",
+        "wonder"
+      ]
+    },
+    {
+      "song_title": "Rest",
+      "unique_words": [
+        "broken",
+        "dirty",
+        "holding",
+        "innocence",
+        "inside",
+        "looking",
+        "nothing",
+        "rushing",
+        "selling",
+        "unspoken",
+        "weight"
+      ]
+    },
+    {
+      "song_title": "I Needed This",
+      "unique_words": [
+        "advise",
+        "blood",
+        "breathing",
+        "broke",
+        "everything",
+        "feeling",
+        "healing",
+        "instead",
+        "leave",
+        "matter",
+        "stopped",
+        "worse"
+      ]
+    },
+    {
+      "song_title": "Longshot",
+      "unique_words": [
+        "anyone",
+        "break",
+        "chance",
+        "doubt",
+        "figured",
+        "heaven",
+        "people",
+        "persistent",
+        "praying",
+        "romance",
+        "semiperfect",
+        "sweep",
+        "thinking",
+        "without"
+      ]
+    },
+    {
+      "song_title": "Augustine",
+      "unique_words": [
+        "across",
+        "current",
+        "enough",
+        "farthest",
+        "ready",
+        "safety",
+        "storm",
+        "strong",
+        "truth",
+        "undone",
+        "watched",
+        "wondering"
+      ]
+    },
+    {
+      "song_title": "Topics",
+      "unique_words": [
+        "ashamed",
+        "attention",
+        "avoid",
+        "behind",
+        "classes",
+        "close",
+        "disguise",
+        "everyone",
+        "exposed",
+        "herself",
+        "known",
+        "problem",
+        "skipping",
+        "spent",
+        "surely",
+        "would"
+      ]
+    },
+    {
+      "song_title": "When I'm Alone",
+      "unique_words": [
+        "always",
+        "beside",
+        "concealer",
+        "forward",
+        "healer",
+        "leaves",
+        "making",
+        "really",
+        "shaking",
+        "should",
+        "wearing"
+      ]
+    },
+    {
+      "song_title": "I Found My Way Back Again",
+      "unique_words": [
+        "about",
+        "around",
+        "convinced",
+        "filled",
+        "front",
+        "hallow",
+        "little",
+        "perfect",
+        "shell",
+        "tonight"
+      ]
+    }
+  ]
+}

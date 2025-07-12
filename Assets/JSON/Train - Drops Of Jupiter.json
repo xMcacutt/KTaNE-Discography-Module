@@ -1,0 +1,202 @@
+{
+  "artist": "Train",
+  "album_title": "Drops Of Jupiter",
+  "songs": [
+    {
+      "song_title": "She's On Fire",
+      "unique_words": [
+        "between",
+        "blinding",
+        "daydream",
+        "decide",
+        "evening",
+        "forget",
+        "getting",
+        "inside",
+        "steal",
+        "surely",
+        "truly"
+      ]
+    },
+    {
+      "song_title": "I Wish You Would",
+      "unique_words": [
+        "behind",
+        "comes",
+        "deserve",
+        "endless",
+        "leave",
+        "longer",
+        "nights",
+        "promise",
+        "ready",
+        "reason",
+        "redesign",
+        "sleepless",
+        "swear",
+        "though",
+        "today",
+        "tonight",
+        "wished"
+      ]
+    },
+    {
+      "song_title": "Drops Of Jupiter",
+      "unique_words": [
+        "across",
+        "afraid",
+        "atmosphere",
+        "chicken",
+        "constellation",
+        "conversation",
+        "dance",
+        "faded",
+        "finally",
+        "first",
+        "friend",
+        "imagine",
+        "jupiter",
+        "looking",
+        "milky",
+        "permanent",
+        "plain",
+        "return",
+        "romance",
+        "shooting",
+        "sticking",
+        "story",
+        "summer",
+        "sweep",
+        "there",
+        "toward",
+        "tracing",
+        "vacation",
+        "venus",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "It's About You",
+      "unique_words": [
+        "corner",
+        "everyone",
+        "ground",
+        "instead",
+        "keeping",
+        "pleasing",
+        "stand",
+        "telling",
+        "thousand"
+      ]
+    },
+    {
+      "song_title": "Hopeless",
+      "unique_words": [
+        "anybody",
+        "helplessly",
+        "hopelessly",
+        "secret",
+        "strong",
+        "waiting",
+        "wonder",
+        "yours"
+      ]
+    },
+    {
+      "song_title": "Respect",
+      "unique_words": [
+        "again",
+        "around",
+        "cause",
+        "everybody",
+        "little",
+        "needs",
+        "remember",
+        "respect",
+        "right",
+        "ringing",
+        "somebody",
+        "someone",
+        "thinking",
+        "treat",
+        "watched"
+      ]
+    },
+    {
+      "song_title": "Let It Roll",
+      "unique_words": [
+        "brave",
+        "calling",
+        "celebrate",
+        "drifting",
+        "falling",
+        "filled",
+        "hotel",
+        "letter",
+        "notice",
+        "shining",
+        "slipping",
+        "these",
+        "understand",
+        "watch",
+        "whats",
+        "write",
+        "writing",
+        "young"
+      ]
+    },
+    {
+      "song_title": "Something More",
+      "unique_words": [
+        "climbing",
+        "matter",
+        "nerve",
+        "nothing",
+        "reach",
+        "sleep",
+        "somehow",
+        "stopped",
+        "trying",
+        "wanting",
+        "wasting",
+        "world"
+      ]
+    },
+    {
+      "song_title": "Whipping Boy",
+      "unique_words": [
+        "believe",
+        "clean",
+        "helpless",
+        "purse",
+        "recess",
+        "searching",
+        "spent",
+        "whipping"
+      ]
+    },
+    {
+      "song_title": "Getaway",
+      "unique_words": [
+        "forever",
+        "getaway",
+        "holding",
+        "should",
+        "slide",
+        "stayed",
+        "waste"
+      ]
+    },
+    {
+      "song_title": "Mississippi",
+      "unique_words": [
+        "anyone",
+        "bayou",
+        "horizon",
+        "mississippi",
+        "morning",
+        "shape"
+      ]
+    }
+  ]
+}

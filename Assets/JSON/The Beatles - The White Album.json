@@ -1,0 +1,532 @@
+{
+  "artist": "The Beatles",
+  "album_title": "The White Album",
+  "songs": [
+    {
+      "song_title": "Back In The USSR",
+      "unique_words": [
+        "beach",
+        "behind",
+        "comrade",
+        "disconnect",
+        "dreadful",
+        "flight",
+        "hardly",
+        "leave",
+        "lucky",
+        "miami",
+        "moscow",
+        "paper",
+        "phone",
+        "ringing",
+        "south",
+        "tomorrow",
+        "unpack"
+      ]
+    },
+    {
+      "song_title": "Dear Prudence",
+      "unique_words": [
+        "beautiful",
+        "brand",
+        "chain",
+        "child",
+        "daisy",
+        "greet",
+        "prudence",
+        "skies"
+      ]
+    },
+    {
+      "song_title": "Glass Onion",
+      "unique_words": [
+        "backed",
+        "dovetail",
+        "fixing",
+        "glass",
+        "joint",
+        "looking",
+        "madonna",
+        "ocean",
+        "shore",
+        "strawberry",
+        "trying",
+        "walrus"
+      ]
+    },
+    {
+      "song_title": "Ob-La-Di, Ob-La-Da",
+      "unique_words": [
+        "barrow",
+        "built",
+        "carat",
+        "couple",
+        "golden",
+        "market",
+        "molly",
+        "running",
+        "singer",
+        "stays",
+        "thank",
+        "trolley",
+        "twenty"
+      ]
+    },
+    {
+      "song_title": "Wild Honey Pie",
+      "unique_words": []
+    },
+    {
+      "song_title": "The Continuing Story Of Bungalow Bill",
+      "unique_words": [
+        "american",
+        "bulletheaded",
+        "bungalow",
+        "captain",
+        "elephant",
+        "fierce",
+        "hunting",
+        "jungle",
+        "marvel",
+        "mighty",
+        "mummy",
+        "saxon",
+        "surprise",
+        "taken",
+        "tiger"
+      ]
+    },
+    {
+      "song_title": "While My Guitar Gently Weeps",
+      "unique_words": []
+    },
+    {
+      "song_title": "Happiness Is A Warm Gun",
+      "unique_words": []
+    },
+    {
+      "song_title": "Martha My Dear",
+      "unique_words": [
+        "bound",
+        "conversation",
+        "forget",
+        "inspiration",
+        "martha",
+        "meant",
+        "remember",
+        "silly",
+        "spend",
+        "thick",
+        "though",
+        "yourself",
+        "youve"
+      ]
+    },
+    {
+      "song_title": "I'm So Tired",
+      "unique_words": [
+        "although",
+        "blink",
+        "brain",
+        "cigarette",
+        "curse",
+        "drink",
+        "feeling",
+        "havent",
+        "insane",
+        "monsieur",
+        "should",
+        "slept",
+        "stupid",
+        "tired",
+        "upset",
+        "walter"
+      ]
+    },
+    {
+      "song_title": "Blackbird",
+      "unique_words": [
+        "arise",
+        "blackbird",
+        "learn",
+        "moment",
+        "sunken",
+        "these"
+      ]
+    },
+    {
+      "song_title": "Piggies",
+      "unique_words": [
+        "backing",
+        "bacon",
+        "bigger",
+        "clean",
+        "crawling",
+        "dinner",
+        "getting",
+        "piggy",
+        "starched",
+        "stirring",
+        "whacking",
+        "white"
+      ]
+    },
+    {
+      "song_title": "Rocky Racoon",
+      "unique_words": [
+        "bible",
+        "booked",
+        "burst",
+        "checked",
+        "corner",
+        "dakota",
+        "daniel",
+        "danny",
+        "doctor",
+        "doubt",
+        "fancy",
+        "first",
+        "gideon",
+        "grinning",
+        "herself",
+        "himself",
+        "hoedown",
+        "lived",
+        "match",
+        "nancy",
+        "raccoon",
+        "revival",
+        "rival",
+        "rocky",
+        "saloon",
+        "scratch",
+        "shoot",
+        "showdown",
+        "somewhere",
+        "stealing",
+        "stinking",
+        "story",
+        "woman"
+      ]
+    },
+    {
+      "song_title": "Don't Pass Me By",
+      "unique_words": [
+        "arrive",
+        "clock",
+        "crash",
+        "darling",
+        "drive",
+        "front",
+        "mantel",
+        "moving",
+        "shelf",
+        "ticking",
+        "tonight",
+        "unfair"
+      ]
+    },
+    {
+      "song_title": "Why Don't We Do It In The Road",
+      "unique_words": [
+        "watching"
+      ]
+    },
+    {
+      "song_title": "I Will",
+      "unique_words": [
+        "catch",
+        "endear",
+        "forever",
+        "lifetime",
+        "together",
+        "whenever"
+      ]
+    },
+    {
+      "song_title": "Julia",
+      "unique_words": [
+        "cannot",
+        "floating",
+        "glimmering",
+        "julia",
+        "meaningless",
+        "reach",
+        "shimmering",
+        "silent",
+        "speak",
+        "touch",
+        "windy"
+      ]
+    },
+    {
+      "song_title": "Birthday",
+      "unique_words": [
+        "birthday",
+        "dance",
+        "party"
+      ]
+    },
+    {
+      "song_title": "Yer Blues",
+      "unique_words": [
+        "already",
+        "crossed",
+        "eagle",
+        "earth",
+        "father",
+        "reason",
+        "suicidal",
+        "universe",
+        "worth"
+      ]
+    },
+    {
+      "song_title": "Mother Nature's Son",
+      "unique_words": [
+        "beneath",
+        "beside",
+        "country",
+        "field",
+        "grass",
+        "sound",
+        "stream",
+        "swaying"
+      ]
+    },
+    {
+      "song_title": "Everybody's Got Something To Hide Except Me And My Monkey",
+      "unique_words": [
+        "except",
+        "higher",
+        "inside",
+        "monkey",
+        "outside"
+      ]
+    },
+    {
+      "song_title": "Sexy Sadie",
+      "unique_words": [
+        "along",
+        "broke",
+        "however",
+        "latest",
+        "lighten",
+        "sadie",
+        "think",
+        "yours"
+      ]
+    },
+    {
+      "song_title": "Helter Skelter",
+      "unique_words": [
+        "above",
+        "answer",
+        "bottom",
+        "break",
+        "comes",
+        "dancer",
+        "miles",
+        "slide"
+      ]
+    },
+    {
+      "song_title": "Long Long Long",
+      "unique_words": [
+        "found",
+        "misplace",
+        "searching",
+        "wasting"
+      ]
+    },
+    {
+      "song_title": "Revolution 1",
+      "unique_words": [
+        "anyhow",
+        "anyone",
+        "carrying",
+        "chairman",
+        "change",
+        "constitution",
+        "contribution",
+        "count",
+        "destruction",
+        "evolution",
+        "institution",
+        "money",
+        "revolution",
+        "solution"
+      ]
+    },
+    {
+      "song_title": "Honey Pie",
+      "unique_words": [
+        "across",
+        "atlantic",
+        "belong",
+        "crazy",
+        "driving",
+        "frantic",
+        "hollywood",
+        "kindly",
+        "legend",
+        "magic",
+        "making",
+        "north",
+        "position",
+        "sailing",
+        "screen",
+        "silver",
+        "thought",
+        "tragic",
+        "working"
+      ]
+    },
+    {
+      "song_title": "Savoy Truffle",
+      "unique_words": [
+        "aloud",
+        "apple",
+        "becomes",
+        "cherry",
+        "coconut",
+        "coffee",
+        "cream",
+        "dessert",
+        "fudge",
+        "ginger",
+        "might",
+        "pineapple",
+        "savoy",
+        "sling",
+        "sweat",
+        "tangerine",
+        "taste",
+        "those",
+        "truffle"
+      ]
+    },
+    {
+      "song_title": "Cry Baby Cry",
+      "unique_words": [
+        "breakfast",
+        "cooking",
+        "duchess",
+        "enough",
+        "friend",
+        "garden",
+        "holiday",
+        "kitchen",
+        "marigold",
+        "message",
+        "nowhere",
+        "oclock",
+        "painting",
+        "piano",
+        "playroom",
+        "queen",
+        "seance",
+        "smiling",
+        "specially",
+        "twelve"
+      ]
+    },
+    {
+      "song_title": "Revolution 9",
+      "unique_words": [
+        "beard",
+        "because",
+        "become",
+        "being",
+        "birding",
+        "bitch",
+        "block",
+        "bottle",
+        "brought",
+        "brown",
+        "building",
+        "business",
+        "chair",
+        "cheeky",
+        "clapping",
+        "claret",
+        "dentist",
+        "difficult",
+        "district",
+        "example",
+        "false",
+        "financial",
+        "fishing",
+        "floral",
+        "forgive",
+        "forgot",
+        "fortune",
+        "function",
+        "george",
+        "giving",
+        "glasses",
+        "grain",
+        "headmaster",
+        "imbalance",
+        "impervious",
+        "industrial",
+        "informed",
+        "intended",
+        "leaving",
+        "maybe",
+        "naked",
+        "number",
+        "older",
+        "output",
+        "presence",
+        "price",
+        "quick",
+        "rarebit",
+        "rouge",
+        "saved",
+        "saying",
+        "serve",
+        "shortage",
+        "shoulder",
+        "sides",
+        "situation",
+        "sometimes",
+        "specimen",
+        "stuff",
+        "surgeon",
+        "sustained",
+        "taking",
+        "teeth",
+        "telegram",
+        "thing",
+        "third",
+        "thrusting",
+        "twist",
+        "umpteen",
+        "unaware",
+        "underclothes",
+        "underpants",
+        "voice",
+        "wasnt",
+        "watusi",
+        "wearing",
+        "weird",
+        "welsh",
+        "whatever",
+        "which",
+        "whirling",
+        "without",
+        "yellow"
+      ]
+    },
+    {
+      "song_title": "Good Night",
+      "unique_words": [
+        "dream",
+        "everybody",
+        "shine",
+        "tight"
+      ]
+    }
+  ]
+}

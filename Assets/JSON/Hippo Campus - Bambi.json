@@ -1,0 +1,215 @@
+{
+  "artist": "Hippo Campus",
+  "album_title": "Bambi",
+  "songs": [
+    {
+      "song_title": "Mistakes",
+      "unique_words": [
+        "afraid",
+        "beyond",
+        "forbidden",
+        "frame",
+        "fruit",
+        "snake",
+        "sometimes",
+        "steal",
+        "taste",
+        "thats",
+        "warning"
+      ]
+    },
+    {
+      "song_title": "Anxious",
+      "unique_words": [
+        "anxious",
+        "barely",
+        "believe",
+        "blame",
+        "breaking",
+        "certain",
+        "circle",
+        "crowded",
+        "different",
+        "finally",
+        "friendly",
+        "glued",
+        "looking",
+        "people",
+        "place",
+        "psychopathic",
+        "screaming",
+        "shout",
+        "single",
+        "throw",
+        "together",
+        "tried"
+      ]
+    },
+    {
+      "song_title": "Doubt",
+      "unique_words": [
+        "about",
+        "alone",
+        "copacetic",
+        "divided",
+        "doubt",
+        "dramatic",
+        "excited",
+        "fetish",
+        "future",
+        "island",
+        "keeping",
+        "needs",
+        "pathetic",
+        "shell",
+        "stopped",
+        "subtlety",
+        "sweet"
+      ]
+    },
+    {
+      "song_title": "Bambi",
+      "unique_words": [
+        "between",
+        "brash",
+        "breathe",
+        "doesnt",
+        "enough",
+        "figure",
+        "havent",
+        "lucky",
+        "making",
+        "myself",
+        "night",
+        "serving",
+        "swear",
+        "unforgiven",
+        "wasnt"
+      ]
+    },
+    {
+      "song_title": "Why Even Try",
+      "unique_words": [
+        "alright",
+        "break",
+        "cyclical",
+        "disappear",
+        "every",
+        "later",
+        "learned",
+        "patch",
+        "voice",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Think It Over",
+      "unique_words": [
+        "blossom",
+        "circumstantial",
+        "failure",
+        "midwinter",
+        "nonsense",
+        "outcry",
+        "pursue",
+        "reason",
+        "sentimental",
+        "thoughtless",
+        "touch"
+      ]
+    },
+    {
+      "song_title": "Bubbles",
+      "unique_words": [
+        "bitter",
+        "chicken",
+        "falling",
+        "house",
+        "irregular",
+        "known",
+        "maniac",
+        "remember",
+        "straight",
+        "stranger",
+        "suburbia",
+        "thing",
+        "tourniquet",
+        "urgency",
+        "while",
+        "whole"
+      ]
+    },
+    {
+      "song_title": "Honestly",
+      "unique_words": [
+        "aimless",
+        "clouded",
+        "creeping",
+        "faded",
+        "honestly",
+        "indecision",
+        "indifferent",
+        "leaving",
+        "picked",
+        "pointless",
+        "repetitive",
+        "scented",
+        "searching",
+        "sorry",
+        "tinted",
+        "tomorrow",
+        "uncertainty",
+        "violet",
+        "vision"
+      ]
+    },
+    {
+      "song_title": "Golen",
+      "unique_words": [
+        "apartment",
+        "cause",
+        "center",
+        "glowing",
+        "golden",
+        "grinning",
+        "lesser",
+        "letter",
+        "longer",
+        "nights",
+        "praying",
+        "pretend",
+        "sense",
+        "sleeping",
+        "sucker",
+        "write"
+      ]
+    },
+    {
+      "song_title": "Passenger",
+      "unique_words": [
+        "always",
+        "attend",
+        "awake",
+        "behind",
+        "blues",
+        "calico",
+        "clinging",
+        "contrary",
+        "corrupted",
+        "familiar",
+        "growing",
+        "jealous",
+        "morning",
+        "passenger",
+        "patience",
+        "pedigree",
+        "reminiscent",
+        "selfish",
+        "suffering",
+        "trace",
+        "would",
+        "youth"
+      ]
+    }
+  ]
+}

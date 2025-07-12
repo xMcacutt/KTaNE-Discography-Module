@@ -1,0 +1,258 @@
+{
+  "artist": "Chloe Moriondo",
+  "album_title": "Oyster",
+  "songs": [
+    {
+      "song_title": "catch",
+      "unique_words": [
+        "anything",
+        "catch",
+        "closely",
+        "dialogue",
+        "float",
+        "holding",
+        "nightly",
+        "politely",
+        "psyche",
+        "relax",
+        "unlikely",
+        "waste"
+      ]
+    },
+    {
+      "song_title": "raw",
+      "unique_words": [
+        "behind",
+        "being",
+        "better",
+        "exposed",
+        "outside",
+        "rough",
+        "slick",
+        "taste",
+        "tough",
+        "underneath",
+        "wishbone",
+        "wrist"
+      ]
+    },
+    {
+      "song_title": "hate it",
+      "unique_words": [
+        "alive",
+        "change",
+        "crazy",
+        "dying",
+        "everybody",
+        "favorite",
+        "lately",
+        "maybe",
+        "nothing",
+        "satisfied",
+        "slowly",
+        "though"
+      ]
+    },
+    {
+      "song_title": "abyss",
+      "unique_words": [
+        "abyss",
+        "cross",
+        "dance",
+        "devotion",
+        "emotion",
+        "moment",
+        "ocean",
+        "party",
+        "remedy",
+        "round",
+        "thats",
+        "undertow"
+      ]
+    },
+    {
+      "song_title": "oyster",
+      "unique_words": [
+        "between",
+        "bottom",
+        "broken",
+        "careful",
+        "crack",
+        "giving",
+        "laying",
+        "lucky",
+        "oyster",
+        "pearl",
+        "pressure",
+        "seaweed",
+        "special",
+        "treasure",
+        "under",
+        "while",
+        "world"
+      ]
+    },
+    {
+      "song_title": "shoreline",
+      "unique_words": [
+        "anywhere",
+        "because",
+        "bitter",
+        "didnt",
+        "forgetting",
+        "learn",
+        "nowadays",
+        "quitter",
+        "radar",
+        "shipwreck",
+        "somewhere",
+        "sweet",
+        "there",
+        "washed"
+      ]
+    },
+    {
+      "song_title": "parasite",
+      "unique_words": [
+        "appetite",
+        "barely",
+        "bleed",
+        "blowing",
+        "clothes",
+        "detach",
+        "eating",
+        "eight",
+        "parasite",
+        "tight",
+        "tiring",
+        "twice",
+        "uninspiring",
+        "whats",
+        "wondering"
+      ]
+    },
+    {
+      "song_title": "7seas",
+      "unique_words": [
+        "afraid",
+        "answer",
+        "brought",
+        "control",
+        "current",
+        "doesnt",
+        "happen",
+        "perfect",
+        "sailed",
+        "seven",
+        "solution",
+        "unfathomably",
+        "unlocked",
+        "youve"
+      ]
+    },
+    {
+      "song_title": "weak",
+      "unique_words": [
+        "brother",
+        "capacity",
+        "develop",
+        "double",
+        "freeze",
+        "matter",
+        "mother",
+        "stupid",
+        "swing",
+        "times",
+        "tired",
+        "tonight",
+        "understand",
+        "whenever",
+        "wherever",
+        "would"
+      ]
+    },
+    {
+      "song_title": "use",
+      "unique_words": [
+        "attach",
+        "blood",
+        "bottle",
+        "catching",
+        "coming",
+        "enough",
+        "filled",
+        "latching",
+        "mouth",
+        "other",
+        "place",
+        "poison",
+        "relief",
+        "right",
+        "scratch",
+        "should",
+        "stuck",
+        "swallow",
+        "those",
+        "whatever",
+        "whose"
+      ]
+    },
+    {
+      "song_title": "sinking",
+      "unique_words": [
+        "anyways",
+        "asleep",
+        "closure",
+        "everything",
+        "forward",
+        "froze",
+        "lower",
+        "probably",
+        "remind",
+        "sinking",
+        "wishful"
+      ]
+    },
+    {
+      "song_title": "pond",
+      "unique_words": [
+        "anyone",
+        "apart",
+        "below",
+        "blink",
+        "certain",
+        "imagine",
+        "myself",
+        "person",
+        "spinning",
+        "tossing",
+        "watching",
+        "worse"
+      ]
+    },
+    {
+      "song_title": "siren calling",
+      "unique_words": [
+        "another",
+        "blinded",
+        "coast",
+        "compass",
+        "empty",
+        "island",
+        "light",
+        "night",
+        "please",
+        "reason",
+        "searching",
+        "secretly",
+        "single",
+        "siren",
+        "tomorrow",
+        "turned",
+        "wasted",
+        "wonder",
+        "wrong"
+      ]
+    }
+  ]
+}

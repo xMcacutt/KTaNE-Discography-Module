@@ -1,0 +1,344 @@
+{
+  "artist": "Taylor Swift",
+  "album_title": "Red",
+  "songs": [
+    {
+      "song_title": "State Of Grace",
+      "unique_words": [
+        "armor",
+        "brave",
+        "broken",
+        "clean",
+        "golden",
+        "hearts",
+        "learn",
+        "mosaic",
+        "pierce",
+        "ruthless",
+        "saint",
+        "state",
+        "streets",
+        "traffic",
+        "unless",
+        "walking"
+      ]
+    },
+    {
+      "song_title": "Red",
+      "unique_words": [
+        "answer",
+        "bright",
+        "burning",
+        "colors",
+        "crossword",
+        "driving",
+        "ending",
+        "favorite",
+        "flying",
+        "forgetting",
+        "knowing",
+        "losing",
+        "missing",
+        "moving",
+        "passionate",
+        "realizing",
+        "solve",
+        "somebody",
+        "strong",
+        "suddenly",
+        "wishing"
+      ]
+    },
+    {
+      "song_title": "Treacherous",
+      "unique_words": [
+        "close",
+        "dangerous",
+        "daydream",
+        "decide",
+        "drive",
+        "focus",
+        "follow",
+        "friction",
+        "going",
+        "quicksand",
+        "reckless",
+        "shine",
+        "sleepless",
+        "slope",
+        "smart",
+        "swept",
+        "trained",
+        "treacherous",
+        "voice",
+        "worth"
+      ]
+    },
+    {
+      "song_title": "I Knew You Were Trouble",
+      "unique_words": [
+        "anyone",
+        "blame",
+        "creeping",
+        "notch",
+        "realize",
+        "reason",
+        "shame",
+        "trouble",
+        "without"
+      ]
+    },
+    {
+      "song_title": "All Too Well",
+      "unique_words": [
+        "after",
+        "album",
+        "being",
+        "casually",
+        "counter",
+        "cruel",
+        "crumpled",
+        "disposition",
+        "drawer",
+        "future",
+        "glasses",
+        "honest",
+        "house",
+        "innocence",
+        "kitchen",
+        "leaves",
+        "masterpiece",
+        "maybe",
+        "middle",
+        "might",
+        "paper",
+        "photo",
+        "picture",
+        "piece",
+        "plaid",
+        "promise",
+        "refrigerator",
+        "scarf",
+        "shirt",
+        "somehow",
+        "thing",
+        "translation",
+        "turning",
+        "upstate"
+      ]
+    },
+    {
+      "song_title": "22",
+      "unique_words": [
+        "alright",
+        "anyway",
+        "breakfast",
+        "crowded",
+        "ditch",
+        "happy",
+        "instead",
+        "magical",
+        "midnight",
+        "miserable",
+        "scene",
+        "sleeping"
+      ]
+    },
+    {
+      "song_title": "I Almost Do",
+      "unique_words": [
+        "confess",
+        "either",
+        "probably",
+        "reach",
+        "reply",
+        "sitting",
+        "tired"
+      ]
+    },
+    {
+      "song_title": "We Are Never Getting Back Together",
+      "unique_words": [
+        "cooler",
+        "exhausting",
+        "month",
+        "peace",
+        "really",
+        "record",
+        "screaming",
+        "space",
+        "swear",
+        "together",
+        "trust"
+      ]
+    },
+    {
+      "song_title": "Stay Stay Stay",
+      "unique_words": [
+        "across",
+        "because",
+        "carry",
+        "dramatic",
+        "football",
+        "given",
+        "helmet",
+        "memorize",
+        "phone",
+        "stayed",
+        "their",
+        "threw",
+        "turnaway",
+        "unresolved",
+        "wearing"
+      ]
+    },
+    {
+      "song_title": "The Last Time",
+      "unique_words": [
+        "aching",
+        "apology",
+        "blink",
+        "breaking",
+        "disappear",
+        "heart",
+        "imagine",
+        "nowhere",
+        "watch",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "Holy Ground",
+      "unique_words": [
+        "apart",
+        "blocked",
+        "brand",
+        "coffee",
+        "crowd",
+        "dance",
+        "noise",
+        "ourselves",
+        "rhyme",
+        "spinning",
+        "usual",
+        "where",
+        "while"
+      ]
+    },
+    {
+      "song_title": "Sad Beautiful Tragic",
+      "unique_words": [
+        "affair",
+        "breakdown",
+        "different",
+        "distance",
+        "hopeful",
+        "listen",
+        "locket",
+        "magic",
+        "pocket",
+        "silence",
+        "timing",
+        "tragic",
+        "train"
+      ]
+    },
+    {
+      "song_title": "The Lucky One",
+      "unique_words": [
+        "alive",
+        "black",
+        "bought",
+        "bunch",
+        "camera",
+        "chasing",
+        "chose",
+        "dignity",
+        "everybody",
+        "figured",
+        "fortune",
+        "foyer",
+        "garden",
+        "later",
+        "legend",
+        "lover",
+        "lucky",
+        "money",
+        "overnight",
+        "queen",
+        "school",
+        "somewhere",
+        "splashed",
+        "square",
+        "understand",
+        "young"
+      ]
+    },
+    {
+      "song_title": "Everything Has Changed",
+      "unique_words": [
+        "eighteen",
+        "flight",
+        "highest",
+        "making",
+        "painted",
+        "pouring",
+        "simple",
+        "smile",
+        "stomach",
+        "yesterday",
+        "yours"
+      ]
+    },
+    {
+      "song_title": "Starlight",
+      "unique_words": [
+        "blues",
+        "boardwalk",
+        "bobby",
+        "crazy",
+        "dressed",
+        "duchess",
+        "married",
+        "marvelous",
+        "ocean",
+        "party",
+        "picked",
+        "prince",
+        "snuck",
+        "spend",
+        "starlight",
+        "summer",
+        "talking",
+        "teach",
+        "worrying",
+        "yacht"
+      ]
+    },
+    {
+      "song_title": "Begin Again",
+      "unique_words": [
+        "begin",
+        "block",
+        "breath",
+        "brought",
+        "christmas",
+        "early",
+        "eight",
+        "family",
+        "james",
+        "laughing",
+        "mirror",
+        "single",
+        "spending",
+        "stand",
+        "start",
+        "strange",
+        "throw",
+        "watched",
+        "wednesday",
+        "whats"
+      ]
+    }
+  ]
+}

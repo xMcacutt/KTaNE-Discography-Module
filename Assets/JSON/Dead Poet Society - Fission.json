@@ -1,0 +1,236 @@
+{
+  "artist": "Dead Poet Society",
+  "album_title": "Fission",
+  "songs": [
+    {
+      "song_title": "5-29-45",
+      "unique_words": [
+        "alive",
+        "colder",
+        "doesnt",
+        "electric",
+        "freedom",
+        "kinglike",
+        "matter",
+        "meaning",
+        "melted",
+        "needs",
+        "outside",
+        "window",
+        "winter"
+      ]
+    },
+    {
+      "song_title": "Running In Circles",
+      "unique_words": [
+        "anyway",
+        "beneath",
+        "earth",
+        "myself",
+        "nicotine",
+        "nights",
+        "slowly",
+        "speaking",
+        "surface",
+        "undone"
+      ]
+    },
+    {
+      "song_title": "Hurt",
+      "unique_words": [
+        "arent",
+        "better",
+        "dealing",
+        "higher",
+        "insane",
+        "legacy",
+        "lighting",
+        "miracle",
+        "reality",
+        "situation",
+        "threw",
+        "tired",
+        "yourself"
+      ]
+    },
+    {
+      "song_title": "How Could I Love You",
+      "unique_words": [
+        "anything",
+        "around",
+        "blast",
+        "bracing",
+        "cannot",
+        "landed",
+        "million",
+        "phone",
+        "talking",
+        "truth"
+      ]
+    },
+    {
+      "song_title": "I Hope You Hate Me.",
+      "unique_words": [
+        "being",
+        "dying",
+        "everyone",
+        "found",
+        "honest",
+        "lately",
+        "least",
+        "longer",
+        "looking",
+        "other",
+        "petty",
+        "shorter",
+        "sound",
+        "underground",
+        "until",
+        "wonder"
+      ]
+    },
+    {
+      "song_title": "Uto",
+      "unique_words": [
+        "bleeding",
+        "caught",
+        "fight",
+        "loathe",
+        "reach",
+        "somehow",
+        "worth"
+      ]
+    },
+    {
+      "song_title": "Tipping Point",
+      "unique_words": [
+        "doing",
+        "drunk",
+        "easier",
+        "front",
+        "ignite",
+        "match",
+        "point",
+        "saying",
+        "sorry",
+        "thats",
+        "theyre",
+        "thinking",
+        "tipping"
+      ]
+    },
+    {
+      "song_title": "LA Queen",
+      "unique_words": [
+        "before",
+        "chest",
+        "cracked",
+        "crossed",
+        "cycle",
+        "driving",
+        "future",
+        "heart",
+        "laying",
+        "queen",
+        "rather",
+        "storm",
+        "street",
+        "white"
+      ]
+    },
+    {
+      "song_title": "Hard To Be God",
+      "unique_words": [
+        "ahead",
+        "aware",
+        "center",
+        "following",
+        "happy",
+        "meant",
+        "neglectful",
+        "piece",
+        "please",
+        "record",
+        "screaming",
+        "thing",
+        "waking",
+        "whats"
+      ]
+    },
+    {
+      "song_title": "81 Tonnes",
+      "unique_words": [
+        "comes",
+        "eighty",
+        "fission",
+        "lover",
+        "rough",
+        "share",
+        "stare",
+        "together",
+        "trying",
+        "weight"
+      ]
+    },
+    {
+      "song_title": "My Condition",
+      "unique_words": [
+        "condition",
+        "escape",
+        "forgotten",
+        "fought",
+        "giving",
+        "grace",
+        "holding",
+        "ignore",
+        "napoleon",
+        "quite",
+        "ready",
+        "saint",
+        "second",
+        "seeing",
+        "simulation",
+        "sitting",
+        "wrong"
+      ]
+    },
+    {
+      "song_title": "KOET",
+      "unique_words": [
+        "edible",
+        "elevated",
+        "follicle",
+        "friend",
+        "happen",
+        "impulse",
+        "power",
+        "praying",
+        "psychotic",
+        "schizophrenic",
+        "selfish",
+        "shelf",
+        "spinning",
+        "wasnt"
+      ]
+    },
+    {
+      "song_title": "Black And Gold",
+      "unique_words": [
+        "almost",
+        "always",
+        "blood",
+        "bound",
+        "burnout",
+        "disappear",
+        "drifting",
+        "fading",
+        "ground",
+        "light",
+        "maybe",
+        "paint",
+        "patience",
+        "spent"
+      ]
+    }
+  ]
+}
