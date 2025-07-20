@@ -15,6 +15,6 @@ MonoBehaviour:
   title: Discography
   author: xMcacutt
   description: It's like that one jukebox module but more annoying.
-  version: 1.0.0
-  outputFolder: build
+  version: 1.0.3
+  outputFolder: D:\SteamLibrary\steamapps\common\Keep Talking and Nobody Explodes\mods
   previewImage: {fileID: 2800000, guid: da46c7e48df8f6147b3f2cf9c6d835e1, type: 3}

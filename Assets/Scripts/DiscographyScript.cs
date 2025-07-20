@@ -30,7 +30,6 @@ public class DiscographyScript : MonoBehaviour
     public KMBombInfo Bomb;
     public KMAudio Audio;
     public KMBombModule Module;
-    public TextAsset jsonInfo;
     public List<Album> albums;
     private static int _moduleIdCounter = 1;
     private int moduleId;
@@ -89,6 +88,7 @@ public class DiscographyScript : MonoBehaviour
 
     void Start()
     {
+        Debug.Log("QWERQWERQWER " + jsonFiles.Length);
         albums = jsonFiles.Select(file => JsonConvert.DeserializeObject<Album>(file.text)).ToList();
         SetupButtonInteractions();
         GeneratePuzzle();
@@ -452,7 +452,7 @@ public class DiscographyScript : MonoBehaviour
             string.Equals(a.artist, artist, StringComparison.CurrentCultureIgnoreCase) &&
             string.Equals(a.album_title, albumTitle, StringComparison.CurrentCultureIgnoreCase));
         if (result == null)
-            Debug.LogWarning("Album not found!" + artist);
+            Debug.LogWarning("Album not found! " + artist + " - " + albumTitle);
         return result;
     }
     
@@ -466,7 +466,7 @@ public class DiscographyScript : MonoBehaviour
         var match = Regex.Match(command, @"^\s*(?:i|in|input)\s+([lrs]+)", RegexOptions.IgnoreCase);
         if (!match.Success)
             yield break;
-
+        yield return null;
         var input = match.Groups[1].Value;
         yield return StartCoroutine(PlayInputSequenceQueue(input));
         yield return null;
